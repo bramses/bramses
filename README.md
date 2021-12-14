@@ -13,7 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-idc[1]
+# Self-updating README
 
+This text won't be change.
 
-[1]: *i deliver code*
+The text below will be, though!
+
+What I'm writing:
+
+- This will be replaced
+- This too!
+- This three!
+
+![Build README](https://github.com/<YOUR GITHUB USERNAME>/<YOUR GITHUB USERNAME>/workflows/Build%20README/badge.svg)
+
+This won't be impacted either. The text above is a GitHub build badge.
