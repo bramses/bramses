@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 
 idc[1]
 
-<iframe src="https://bramadms.dev" title="testing iframe"></iframe>
-
 
 [1]: *i deliver code*
