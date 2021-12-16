@@ -33,7 +33,7 @@ const main = async () => {
     }
   })
 
-  const randomImage = `1![](${imageURLs[Math.floor(Math.random() * imageURLs.length)]})2`
+  const randomImage = `memestart![](${imageURLs[Math.floor(Math.random() * imageURLs.length)]})memeend`
 
   console.log(randomImage)
   
@@ -45,7 +45,7 @@ const main = async () => {
     // Replace text using regex: "I'm writing: ...replace... ![Build"
     // Regex101.com is a lifesaver!
     const preUpdate = data.replace(
-      /1\s*\S*2/gim,
+      /memestart\s*\S*memeend/gim,
       'memeres'
       )
     
