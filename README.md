@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Self-updating README
 
-meme
+https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F447c4b61-1815-4e6c-ba4e-25a4caf55428%2F0AC93AA0-8EBD-4A7D-B17E-9CBDF4CC6744.jpeg?table=block&id=01595d5c-7dfe-405e-96d7-f4b084936090&cache=v2
 
 ![Build README](https://github.com/bramses/bramses/workflows/Build%20README/badge.svg)
 
