@@ -46,4 +46,5 @@ jobs:
         git config --global user.name "README-bot"
         git add -A
         git commit -m "Updated meme" || exit 0
+        git pull
         git push
