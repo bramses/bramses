@@ -49,7 +49,7 @@ const main = async () => {
       'memeres'
       )
     
-    const updatedMd = data.replace(
+    const updatedMd = preUpdate.replace(
       /memeres/gim,
       randomImage
     );
