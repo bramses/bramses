@@ -1,0 +1,21 @@
+{
+  "name": "bramses",
+  "version": "1.0.0",
+  "description": "Personal GitHub README repo",
+  "main": "updateReadme.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bramses/bramses.git"
+  },
+  "dependencies": {
+    "notion-client": "^4.11.4",
+    "notion-utils": "^4.11.4"
+  },
+  "author": "Bram Adams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bramses/bramses/issues"
+  },
+  "homepage": "https://github.com/bramses/bramses#readme"
+}
