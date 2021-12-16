@@ -8,7 +8,7 @@ on:
   # Run workflow on pushes to main branch
   push:
     branches:
-      - main
+      - master
 
 # Steps to carry out
 jobs:
