@@ -15,15 +15,7 @@ Here are some ideas to get you started:
 
 # Self-updating README
 
-This text won't be change.
-
-The text below will be, though!
-
-What I'm writing:
-
-- This will be replaced
-- This too!
-- This three!
+meme
 
 ![Build README](https://github.com/bramses/bramses/workflows/Build%20README/badge.svg)
 
