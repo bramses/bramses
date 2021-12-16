@@ -1,7 +1,7 @@
 # Name of workflow
 name: Build README
 
-# Run workflow at 12:01 on Sunday, Wednesday, and Friday
+# Run workflow every 5 mins
 on:
   schedule:
     - cron: '*/5 * * * *'
@@ -46,5 +46,5 @@ jobs:
         git config --global user.name "README-bot"
         git add -A
         git commit -m "Updated meme" || exit 0
-        git pull --ff-only
-        git push
+        git pull origin master
+        git push origin master
