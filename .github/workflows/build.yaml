@@ -1,7 +1,7 @@
 # Name of workflow
 name: Build README
 
-# Run workflow every 5 mins
+# Run workflow every 5 mins!
 on:
   schedule:
     - cron: '*/5 * * * *'
