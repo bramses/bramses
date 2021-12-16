@@ -1,3 +1,3 @@
-# Self-updating READMEME ([Memes Source](https://bramses.notion.site/a49c1e962b7646879176ac3b327b6533?v=4d1eda54b170483cb03a40f257231764))
+# Self-updating READMEME ([Memes Source](https://bramses.notion.site/a49c1![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F21d7043c-c31e-4e25-a049-c6055b2888a1%2FD2475867-C9B4-41BB-B56F-0ECF7E226F00.png?table=block&id=89840ea5-9451-4922-84fc-462ea710beaa&cache=v2)231764))
 
-![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F15b21331-d563-46d0-9120-6832ed12d318%2F2C714162-15C7-4DBB-9923-17E4C79EF0CA.jpeg?table=block&id=4a766a54-0f35-4a6a-a003-9cd9f1e5aa2e&cache=v2)
+![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F1![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F21d7043c-c31e-4e25-a049-c6055b2888a1%2FD2475867-C9B4-41BB-B56F-0ECF7E226F00.png?table=block&id=89840ea5-9451-4922-84fc-462ea710beaa&cache=v2)2)
