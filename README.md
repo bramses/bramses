@@ -1,3 +1,3 @@
 # Self-updating READMEME (new meme every 5 minutes) ([Memes Source](https://bramses.notion.site/a49c1e962b7646879176ac3b327b6533?v=4d1eda54b170483cb03a40f257231764))
 
-memestart![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd2220fc6-f8a1-4308-9f07-9c531f42eca5%2F277E2E68-113D-4F71-800B-1B00F3580F93.png?table=block&id=1c9160e4-a31d-4563-8622-47f452f790f0&cache=v2)memeend
+memestart![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fcfd19547-57d3-4edc-9133-54a79aeafc3f%2FD5C126EE-087F-469A-9E86-E1536D40A825.jpeg?table=block&id=f4c5b52b-4081-4fab-85f5-4460195b916f&cache=v2)memeend
