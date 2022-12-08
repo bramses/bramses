@@ -1,5 +1,1 @@
-like videos? [i got u](https://www.youtube.com/channel/UCPkoAWQ1lFJ53kI61Kt7p-g)
-
-like text? [i got u](https://www.bramadams.dev/)
-
-like code? look below!
+-->  [![rainbowmonkeydance](https://cdn3.emoji.gg/emojis/8682_rainbowmonkeydance.gif)](https://emoji.gg/emoji/8682_rainbowmonkeydance) **[THIS IS WHAT YOU'RE LOOKING FOR](https://www.bramadams.dev/)** [![rainbowmonkeydance](https://cdn3.emoji.gg/emojis/8682_rainbowmonkeydance.gif)](https://emoji.gg/emoji/8682_rainbowmonkeydance) <--
