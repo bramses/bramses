@@ -14,5 +14,5 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts
 
 <!--START_SECTION:feed-->
-
+...
 <!--END_SECTION:feed-->
