@@ -9,3 +9,10 @@ Previously Developer Advocate @ [Algolia](https://www.algolia.com/), Software En
 You can learn more about him and his work on his [website](https://www.bramadams.dev/about/). 
 
 The best way to support his work is to sign up for his newsletter [here](https://www.bramadams.dev/#/portal/).
+
+
+## Latest Posts
+
+<!--START_SECTION:feed-->
+
+<!--END_SECTION:feed-->
