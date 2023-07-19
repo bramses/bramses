@@ -16,3 +16,4 @@ jobs:
         with:
           feed-url: https://www.bramadams.dev/blog/rss/
           readme-section: feed
+          branch: main
