@@ -11,7 +11,7 @@ You can learn more about him and his work on his [website](https://www.bramadams
 The best way to support his work is to sign up for his newsletter [here](https://www.bramadams.dev/#/portal/).
 
 
-## Latest Posts
+## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
 * [Issue 18: The Slow Burn of Really Good Work](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307161909&#x2F;)
