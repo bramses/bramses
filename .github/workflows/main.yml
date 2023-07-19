@@ -4,6 +4,9 @@ on:
   schedule:
     # Once a day at 8 AM
     - cron: '*/5 * * * *'
+  workflow_dispatch:
+    
+
 
 jobs:
   update:
