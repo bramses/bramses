@@ -14,5 +14,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts
 
 <!--START_SECTION:feed-->
-...
+* [Issue 18: The Slow Burn of Really Good Work](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307161909&#x2F;)
+* [Living Life as a B- Student](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307141838&#x2F;)
+* [The Problems That CPUs Can’t Solve](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307141835&#x2F;)
+* [Issue 17: Kalypso Allows Us to Care](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307091804&#x2F;)
+* [Some Hard Af Phone Backgrounds Ive Been Using](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307072315&#x2F;)
 <!--END_SECTION:feed-->
