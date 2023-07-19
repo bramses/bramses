@@ -14,9 +14,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
-* [Issue 18: The Slow Burn of Really Good Work](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307161909&#x2F;) - 
-* [Living Life as a B- Student](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307141838&#x2F;) - 
-* [The Problems That CPUs Can’t Solve](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307141835&#x2F;) - 
-* [Issue 17: Kalypso Allows Us to Care](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307091804&#x2F;) - 
-* [Some Hard Af Phone Backgrounds Ive Been Using](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307072315&#x2F;) - 
+* [Issue 18: The Slow Burn of Really Good Work](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307161909&#x2F;) - Why the long game and the quality game might be one in the same!
+* [Living Life as a B- Student](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307141838&#x2F;) - why b- succeeds in life
+* [The Problems That CPUs Can’t Solve](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307141835&#x2F;) - the types of things that can&#39;t be solved by things that solve types of things
+* [Issue 17: Kalypso Allows Us to Care](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307091804&#x2F;) - and the ramifications of being attached to the written word!
+* [Some Hard Af Phone Backgrounds Ive Been Using](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307072315&#x2F;) - gotta love duotone!
 <!--END_SECTION:feed-->
