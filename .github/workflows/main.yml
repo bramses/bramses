@@ -17,4 +17,4 @@ jobs:
           feed-url: https://www.bramadams.dev/blog/rss/
           readme-section: feed
           branch: master
-          template: "* [{{ title }}]({{ link }})) - {{ description }} -- {{ media:content }}"
+          template: "* [{{ title }}]({{ link }})) - {{ description }}"
