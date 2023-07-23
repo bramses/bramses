@@ -14,9 +14,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Dipping My Toes Back Into Generative Art](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307222330&#x2F;) - A little play with pixel sorting!
 * [🔐 Newsletter](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;newsletter&#x2F;) - (vault members only) Reflections and tips on running a newsletter!
 * [🔐 Untitled Book Progress](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;untitled-book-1&#x2F;) - (vault members only) Progress Reports on my first non fiction book!
 * [Issue 18: The Slow Burn of Really Good Work](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307161909&#x2F;) - Why the long game and the quality game might be one in the same!
 * [Living Life as a B- Student](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307141838&#x2F;) - why b- succeeds in life
-* [The Problems That CPUs Can’t Solve](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307141835&#x2F;) - the types of things that can&#39;t be solved by things that solve types of things
 <!--END_SECTION:feed-->
