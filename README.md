@@ -14,9 +14,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [The Five Books I Read in July 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307311905&#x2F;) - Books I read in July -- with ratings and some curated quotes!
 * [Issue 20: The Real Book Quotes of L(ibr).A(ry).](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307302034&#x2F;) - Is everything becoming embedded inevitable?
 * [Issue 19: Can a Gardener Be a Perfectionist?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307232155&#x2F;) - The Henry Fordification of life and prospect
 * [Dipping My Toes Back Into Generative Art](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307222330&#x2F;) - A little play with pixel sorting!
 * [🔐 Newsletter](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;newsletter&#x2F;) - (vault members only) Reflections and tips on running a newsletter!
-* [🔐 Untitled Book Progress](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;untitled-book-1&#x2F;) - (vault members only) Progress Reports on my first non fiction book!
 <!--END_SECTION:feed-->
