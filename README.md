@@ -14,9 +14,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [From Gertrude Stein to The Fabric of Technology](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308042105&#x2F;) - Moving from the celebrity space to somewehre near the effects of the Industrial Revolution
 * [From Celebrity to Vanitas](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308032252&#x2F;) - How many moves from celebrity to art about death?
 * [Old Man and the Noi(sea)](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;old-man-and-the-noi-sea&#x2F;) - when the voices in your head are noiSY!
 * [What is Common Sense? And…How Good is It?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308012227&#x2F;) - A look through quote space into common sense and theoretical knowledge
 * [What is the Difference Between the Present and the Future?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308011459&#x2F;) - A look through the quote space in an attempt to wrest knowledge of the present from the future
-* [The Five Books I Read in July 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202307311905&#x2F;) - Books I read in July -- with ratings and some curated quotes!
 <!--END_SECTION:feed-->
