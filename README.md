@@ -14,9 +14,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Embeddings Visualized as Colors](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308081300&#x2F;) - Mixing p5 and embeddings!
 * [Issue 21: The True Signature Is One Signed Between the Lines](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308062155&#x2F;) - How to leave something behind that you’ll be proud of.
 * [From Gertrude Stein to The Fabric of Technology](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308042105&#x2F;) - Moving from the celebrity space to somewehre near the effects of the Industrial Revolution
 * [From Celebrity to Vanitas](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308032252&#x2F;) - How many moves from celebrity to art about death?
 * [Old Man and the Noi(sea)](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;old-man-and-the-noi-sea&#x2F;) - when the voices in your head are noiSY!
-* [What is Common Sense? And…How Good is It?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308012227&#x2F;) - A look through quote space into common sense and theoretical knowledge
 <!--END_SECTION:feed-->
