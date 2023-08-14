@@ -14,9 +14,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Issue 22: Napoleon&#39;s Secret Weapon](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308132046&#x2F;) - You are what you read.
 * [The Spear of Knowledge](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308122252&#x2F;) - An AI agent for book highlights with embeddings
 * [I Must Find A Place For Their Souls To Rest](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308102122&#x2F;) - I&#39;m done with the feelings I&#39;ve learned to know in paradox
 * [Embeddings as Shapes v0.1](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308091339&#x2F;) - Embeddings, this time as shapes! (v0.1)
 * [Embeddings Visualized as Colors](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308081300&#x2F;) - Mixing p5 and embeddings!
-* [Issue 21: The True Signature Is One Signed Between the Lines](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308062155&#x2F;) - How to leave something behind that you’ll be proud of.
 <!--END_SECTION:feed-->
