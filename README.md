@@ -14,9 +14,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [The World&#39;s First AR Rapper](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-worlds-first-ar-rapper&#x2F;) - Look out for M.P. in the XXL Freshman 2021
+* [My 27th Birthday Party](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;my-27th-birthday-party&#x2F;) - Inviting all my closest friends to my 27th
 * [Issue 22: Napoleon&#39;s Secret Weapon](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308132046&#x2F;) - You are what you read.
 * [The Spear of Knowledge](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308122252&#x2F;) - An AI agent for book highlights with embeddings
 * [I Must Find A Place For Their Souls To Rest](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308102122&#x2F;) - I&#39;m done with the feelings I&#39;ve learned to know in paradox
-* [Embeddings as Shapes v0.1](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308091339&#x2F;) - Embeddings, this time as shapes! (v0.1)
-* [Embeddings Visualized as Colors](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308081300&#x2F;) - Mixing p5 and embeddings!
 <!--END_SECTION:feed-->
