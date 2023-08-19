@@ -14,9 +14,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Peace of Mind](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;peace-of-mind&#x2F;) - When we say we want peace *of* mind, what we really mean is that we want peace *from* mind
+* [Square Up! 😤](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;square-up&#x2F;) - I don&#39;t mess around in fights!
+* [I Was FRAMED](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;i-was-framed&#x2F;) - You got the wrong guy!
+* [A Candid Conversation with my Artificial Self](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;a-conversation-with-my-artificial-self-using-gpt-3-and-arkit&#x2F;) - Using GPT-3 to get to the brass tacks of humanity in an AI world
 * [The World&#39;s First AR Rapper](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-worlds-first-ar-rapper&#x2F;) - Look out for M.P. in the XXL Freshman 2021
-* [My 27th Birthday Party](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;my-27th-birthday-party&#x2F;) - Inviting all my closest friends to my 27th
-* [Issue 22: Napoleon&#39;s Secret Weapon](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308132046&#x2F;) - You are what you read.
-* [The Spear of Knowledge](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308122252&#x2F;) - An AI agent for book highlights with embeddings
-* [I Must Find A Place For Their Souls To Rest](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308102122&#x2F;) - I&#39;m done with the feelings I&#39;ve learned to know in paradox
 <!--END_SECTION:feed-->
