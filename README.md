@@ -14,9 +14,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
-* [Bleeding Edge Technology is Made for Silly Art](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308192019&#x2F;) - I&#39;ve had the pleasure this week of going through some of my old creative work while moving my favorite projects to my personal lifelong domain (the website you are reading this on). It feels like the computer equivalent of finding old photos in the attic, laughing by yourself
+* [Issue 23: Bleeding Edge Technology is Made for Silly Art](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308202158&#x2F;) - an analysis on what it means to be human
+* [Bleeding Edge Technology is Made for Silly Art](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308192019&#x2F;) - The only defensible use for bleeding edge tech is play!
 * [A Skyrim Mod Using GPT-3](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;a-skyrim-mod-using-gpt-3&#x2F;) - The rise of the mods
 * [Peace of Mind](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;peace-of-mind&#x2F;) - When we say we want peace *of* mind, what we really mean is that we want peace *from* mind
 * [Square Up! 😤](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;square-up&#x2F;) - I don&#39;t mess around in fights!
-* [I Was FRAMED](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;i-was-framed&#x2F;) - You got the wrong guy!
 <!--END_SECTION:feed-->
