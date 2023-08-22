@@ -14,9 +14,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [August 21 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308211834&#x2F;) - Instabrams are back baby! Thanks to Alfred, Obsidian, Ghost, and GPT that is!
 * [Issue 23: Bleeding Edge Technology is Made for Silly Art](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308202158&#x2F;) - an analysis on what it means to be human
 * [Bleeding Edge Technology is Made for Silly Art](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308192019&#x2F;) - The only defensible use for bleeding edge tech is play!
 * [A Skyrim Mod Using GPT-3](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;a-skyrim-mod-using-gpt-3&#x2F;) - The rise of the mods
 * [Peace of Mind](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;peace-of-mind&#x2F;) - When we say we want peace *of* mind, what we really mean is that we want peace *from* mind
-* [Square Up! 😤](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;square-up&#x2F;) - I don&#39;t mess around in fights!
 <!--END_SECTION:feed-->
