@@ -14,16 +14,12 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
-* [August 22 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;august-22-2023&#x2F;) - New season of Hearthstone! Goodbye, next forty-eight hours. I&#39;ll be captive to this relentless obsession. Alongside Baldur&#39;s Gate 3, of course.
+* [Kingdom Hearts Menu Style Portfolio](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;kingdom-hearts-menu-style-portfolio&#x2F;) - ~~ dearly beloved ~~
+* [AI Standup Comedy Club](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;ai-standup-comedy-club&#x2F;) - 🗒️
+This was created in August 2020! I&#39;m retrieving some of my favorite old works and migrating them to the website.
 
-
-
-
-This patch, it sucks from the get-go. Bannana Slammas for life, I suppose.
-broken comboonly broken enough for fourth place i suppose
-The billboards
+Should I stay poker-faced, the machine knows and tosses out a different breed of gag. But crack a laugh, the model serves up more of the
+* [August 23 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;august-23-2023&#x2F;) - Out-of-towners often mistake Manhattan as the whole of NYC, I feel.
+* [August 22 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;august-22-2023&#x2F;) - New season of Hearthstone! Goodbye, next forty-eight hours.
 * [August 21 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308211834&#x2F;) - Instabrams are back baby! Thanks to Alfred, Obsidian, Ghost, and GPT that is!
-* [Issue 23: Bleeding Edge Technology is Made for Silly Art](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308202158&#x2F;) - an analysis on what it means to be human
-* [Bleeding Edge Technology is Made for Silly Art](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308192019&#x2F;) - The only defensible use for bleeding edge tech is play!
-* [A Skyrim Mod Using GPT-3](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;a-skyrim-mod-using-gpt-3&#x2F;) - The rise of the mods
 <!--END_SECTION:feed-->
