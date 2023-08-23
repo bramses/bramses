@@ -15,10 +15,7 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 
 <!--START_SECTION:feed-->
 * [Kingdom Hearts Menu Style Portfolio](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;kingdom-hearts-menu-style-portfolio&#x2F;) - ~~ dearly beloved ~~
-* [AI Standup Comedy Club](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;ai-standup-comedy-club&#x2F;) - 🗒️
-This was created in August 2020! I&#39;m retrieving some of my favorite old works and migrating them to the website.
-
-Should I stay poker-faced, the machine knows and tosses out a different breed of gag. But crack a laugh, the model serves up more of the
+* [AI Standup Comedy Club](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;ai-standup-comedy-club&#x2F;) - Should I stay poker-faced, the machine knows and tosses out a different breed of gag. But crack a laugh, the model serves up more of the same brand of humor.
 * [August 23 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;august-23-2023&#x2F;) - Out-of-towners often mistake Manhattan as the whole of NYC, I feel.
 * [August 22 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;august-22-2023&#x2F;) - New season of Hearthstone! Goodbye, next forty-eight hours.
 * [August 21 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308211834&#x2F;) - Instabrams are back baby! Thanks to Alfred, Obsidian, Ghost, and GPT that is!
