@@ -14,16 +14,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
-* [August 26 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;august-26-2023&#x2F;) - T-KT goes great here
-
-
-
-
-
-
-Hearthstone Battlegrounds has this knack, it&#39;s sticky. Twice, you place seventh. Tough luck, you think. Two rounds straight, both no cigar. Your mind tickles towards, what&#39;s the point? A whisper of giving it up. Then, bam, you land first or second. Pride
+* [August 27 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;august-27-2023&#x2F;) - Sunday is the reprieve!
+* [The Internet is Empty](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-internet-is-empty&#x2F;) - How can we travel that which has no physical form?
+* [August 26 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;august-26-2023&#x2F;) - Hearthstone Battlegrounds has this knack, it&#39;s sticky.
 * [August 25 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;august-25-2023&#x2F;) - and perhaps a discord was born?
 * [August 24 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;august-24-2023&#x2F;) - if u can wait till i get home
-* [Kingdom Hearts Menu Style Portfolio](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;kingdom-hearts-menu-style-portfolio&#x2F;) - ~~ dearly beloved ~~
-* [AI Standup Comedy Club](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;ai-standup-comedy-club&#x2F;) - Should I stay poker-faced, the machine knows and tosses out a different breed of gag. But crack a laugh, the model serves up more of the same brand of humor.
 <!--END_SECTION:feed-->
