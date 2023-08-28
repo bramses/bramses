@@ -14,9 +14,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Issue 24: The Stage We Create Upon](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308272210&#x2F;) - A Personalized Creative Renaissance
 * [August 27 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;august-27-2023&#x2F;) - Sunday is the reprieve!
-* [The Internet is Empty](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-internet-is-empty&#x2F;) - How can we travel that which has no physical form?
+* [The Internet is Empty](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-internet-is-empty&#x2F;) - The wide open nothingness of HTTP
 * [August 26 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;august-26-2023&#x2F;) - Hearthstone Battlegrounds has this knack, it&#39;s sticky.
 * [August 25 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;august-25-2023&#x2F;) - and perhaps a discord was born?
-* [August 24 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;august-24-2023&#x2F;) - if u can wait till i get home
 <!--END_SECTION:feed-->
