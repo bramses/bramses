@@ -14,9 +14,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [September 1 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-1-2023&#x2F;) - Do you remember?
 * [August 31 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;august-31-2023&#x2F;) - Not hideous, pretty enough, but bland as lukewarm coffee.
 * [August 30 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;august-30-2023&#x2F;) - the daily energy management struggles
 * [August 29 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;august-29-2023&#x2F;) - You go Ro coco
 * [August 28 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;august-28-2023&#x2F;) - Where do you see yourself in four months?
-* [Issue 24: The Stage We Create Upon](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202308272210&#x2F;) - A Personalized Creative Renaissance
 <!--END_SECTION:feed-->
