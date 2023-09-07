@@ -14,9 +14,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [September 6 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-6-2023&#x2F;) - some tips on seasonal planning
 * [September 5 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-5-2023&#x2F;) - The placebo effect is effective
 * [Issue 25: August&#39;s Adjournment Announces Autumn&#39;s Arrival](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202309032140&#x2F;) - Five book reviews and a loop
 * [The Real World of Technology and the Four Other Books I Read August 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-real-world-of-technology-and-the-four-other-books-i-read-august-2023&#x2F;) - Books I read in August -- with ratings and some curated quotes!
 * [September 2 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-2-2023&#x2F;) - A lot of calories!
-* [September 1 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-1-2023&#x2F;) - Do you remember?
 <!--END_SECTION:feed-->
