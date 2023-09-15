@@ -14,9 +14,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [September 14 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-14-2023&#x2F;) - the name spoken is not necessarily the true name of a thing
 * [September 13 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-13&#x2F;) - context, hiding, reason, emotions
 * [September 12 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-12-2023&#x2F;) - We all float downstream
 * [September 11 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-11-2023&#x2F;) - &quot;But here is a photograph I want you to see&quot;
 * [We&#39;re Too Quick To Remember, And Too Slow To Forget](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202309110013&#x2F;) - Long lost memories for far off places, and yet they&#39;re too close to home
-* [September 6 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-6-2023&#x2F;) - some tips on seasonal planning
 <!--END_SECTION:feed-->
