@@ -14,9 +14,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Issue 27: A House of Cards](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202309172307&#x2F;) - What are your foundations? How good is your soil?
+* [September 17 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-17-2023&#x2F;) - Misfortune weighs most heavily, he says, on those who “expect nothing but good fortune.”
 * [September 16 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-16-2023&#x2F;) - we can recreate awe
 * [September 15 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-15-2023&#x2F;) - software engineer interview politics and silicon marmosets
 * [September 14 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-14-2023&#x2F;) - the name spoken is not necessarily the true name of a thing
-* [September 13 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-13&#x2F;) - context, hiding, reason, emotions
-* [September 12 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-12-2023&#x2F;) - We all float downstream
 <!--END_SECTION:feed-->
