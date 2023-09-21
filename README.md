@@ -14,9 +14,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [September 20 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-20-2023&#x2F;) - bigger slop of lamb
 * [September 19 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-19-2023&#x2F;) - the only moral imperative
 * [September 18 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-18-2023&#x2F;) - if the queen had balls
 * [Issue 27: A House of Cards](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202309172307&#x2F;) - What are your foundations? How good is your soil?
 * [September 17 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-17-2023&#x2F;) - Misfortune weighs most heavily, he says, on those who “expect nothing but good fortune.”
-* [September 16 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-16-2023&#x2F;) - we can recreate awe
 <!--END_SECTION:feed-->
