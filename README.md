@@ -14,9 +14,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [September 22 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-22-2023&#x2F;) - the lies we tell ourselves about ourselves
 * [September 21 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-21-2023&#x2F;) - i declare war!
 * [September 20 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-20-2023&#x2F;) - bigger slop of lamb
 * [September 19 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-19-2023&#x2F;) - the only moral imperative
 * [September 18 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-18-2023&#x2F;) - if the queen had balls
-* [Issue 27: A House of Cards](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202309172307&#x2F;) - What are your foundations? How good is your soil?
 <!--END_SECTION:feed-->
