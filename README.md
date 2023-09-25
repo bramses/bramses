@@ -14,9 +14,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Issue 28: The Gooey Center of Computing](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202309242142&#x2F;) - Volcanic activity creating lands in the sea, as it were
+* [Authors at the Water Color: Avoiding Emotions Triggers Emotion](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;authors-at-the-water-color-avoiding-emotions-triggers-emotion&#x2F;) - you cant run away forever!
 * [Authors at the Water Cooler: Empiricism is Bad](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;authors-table-empiricism-is-bad&#x2F;) - i have to see it to believe it
 * [September 23 2022](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-23-2022&#x2F;) - stop delivering, if you want to make money, anyway
 * [September 22 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-22-2023&#x2F;) - the lies we tell ourselves about ourselves
-* [September 21 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-21-2023&#x2F;) - i declare war!
-* [September 20 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-20-2023&#x2F;) - bigger slop of lamb
 <!--END_SECTION:feed-->
