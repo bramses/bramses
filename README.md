@@ -14,9 +14,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Authors at the Water Cooler: We Inherited Music](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;authors-at-the-water-cooler-we-inherited-music&#x2F;) - what if it turns out music is writing the musician?
 * [Authors at the Water Cooler: Why Did We Bother Coming in to Work?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;authors-at-the-water-cooler-why-did-we-bother-coming-in-to-work&#x2F;) - &quot;Take Me to Work&quot; - Hozier Remix
 * [Issue 28: The Gooey Center of Computing](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;202309242142&#x2F;) - Volcanic activity creating lands in the sea, as it were
 * [Authors at the Water Color: Avoiding Emotions Triggers Emotion](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;authors-at-the-water-color-avoiding-emotions-triggers-emotion&#x2F;) - you cant run away forever!
 * [Authors at the Water Cooler: Empiricism is Bad](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;authors-table-empiricism-is-bad&#x2F;) - i have to see it to believe it
-* [September 23 2022](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;september-23-2022&#x2F;) - stop delivering, if you want to make money, anyway
 <!--END_SECTION:feed-->
