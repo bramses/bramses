@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Issue 29: Anything But Commonplace](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-29&#x2F;) - Commonplace Bot is live!!
 * [Authors at the Water Cooler: The Tricks Our Eyes Play About Space](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;authors-at-the-water-cooler-the-tricks-our-eyes-play-about-space&#x2F;) - eyes tell lies about the spheres in the skies
 * [An Embedding Technique I&#39;ve Been Enjoying](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;an-embedding-technique-ive-been-enjoying&#x2F;) - boats &#39;n&#39; rows, boats &#39;n&#39; rows, I gotta have me more boats &#39;n&#39; rows
 * [Authors at the Water Cooler: The Act of Journaling](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;authors-at-the-water-cooler-the-act-of-journaling&#x2F;) - To keep a journal you must own it
 * [Authors at the Water Cooler: We Inherited Music](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;authors-at-the-water-cooler-we-inherited-music&#x2F;) - what if it turns out music is writing the musician?
-* [Authors at the Water Cooler: Why Did We Bother Coming in to Work?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;authors-at-the-water-cooler-why-did-we-bother-coming-in-to-work&#x2F;) - &quot;Take Me to Work&quot; - Hozier Remix
 <!--END_SECTION:feed-->
