@@ -1,4 +1,4 @@
-Bram Adams (@bramses) is a writer and programmer based out of NYC. 
+Bram Adams (@bramses) is a creative technologist based out of NYC. 
 
 Bram publishes a weekly newsletter, is a [community developer ambassador for OpenAI](https://platform.openai.com/ambassadors), and does freeleance contracts ([for hire!](https://www.bramadams.dev/consulting/)) related to AI/web dev/AR+VR. 
 
