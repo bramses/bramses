@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [I&#39;m Fire on the Campsite and on Mic](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;fire-on-the-mic-and-cooking&#x2F;) - In this stream we discuss chimps vs humans in terms of stomach size and cooking and what makes humans unique, and the best way to use a microphone.
+* [Men Without Women and the Other Books I Read in September 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;men-without-women-and-the-other-books-i-read-in-september-2023&#x2F;) - quotes and ratings for the five books i read in september 2023
 * [Wealth Gaps, Rocks, and More](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;wealth-gaps-and-rocks&#x2F;) - but...it&#39;s a nice rock!
 * [Authors at the Water Cooler: The Masochist&#39;s Inbox](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;authors-at-the-water-cooler&#x2F;) - we fetishize the pain of never reaching inbox zero because it proves to ourselves that we still matter
 * [Issue 29: Anything But Commonplace](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-29&#x2F;) - Commonplace Bot is live!!
-* [Authors at the Water Cooler: The Tricks Our Eyes Play About Space](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;authors-at-the-water-cooler-the-tricks-our-eyes-play-about-space&#x2F;) - eyes tell lies about the spheres in the skies
-* [An Embedding Technique I&#39;ve Been Enjoying](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;an-embedding-technique-ive-been-enjoying&#x2F;) - boats &#39;n&#39; rows, boats &#39;n&#39; rows, I gotta have me more boats &#39;n&#39; rows
 <!--END_SECTION:feed-->
