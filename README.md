@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Anergy &amp; Software](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;anergy-software&#x2F;) - People really come into their own, find the muscle in their spirits, and leave pure marks on the world when they step out of their cozy bubbles, decide to shake things up, and forge a change.
 * [Issue 30 - September Book Review!](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-30&#x2F;) - What book (or books) will reign supreme in September?
 * [I&#39;m Fire on the Campsite and on the Mic](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;fire-on-the-mic-and-cooking&#x2F;) - In this stream we discuss chimps vs humans in terms of stomach size and cooking and what makes humans unique, and the best way to use a microphone.
 * [Men Without Women and the Other Books I Read in September 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;men-without-women-and-the-other-books-i-read-in-september-2023&#x2F;) - quotes and ratings for the five books i read in september 2023
 * [Wealth Gaps, Rocks, and More](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;wealth-gaps-and-rocks&#x2F;) - but...it&#39;s a nice rock!
-* [Authors at the Water Cooler: The Masochist&#39;s Inbox](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;authors-at-the-water-cooler&#x2F;) - we fetishize the pain of never reaching inbox zero because it proves to ourselves that we still matter
 <!--END_SECTION:feed-->
