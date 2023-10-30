@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Issue 33: Is Using AI to Write Code Cheating?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-33&#x2F;) - No fair, Mom said it&#39;s my turn to convene with the spirits
 * [Issue 32: Go Meta on Time Management](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-32&#x2F;) - A few thoughts on time management
 * [Issue 31: Is the Game You&#39;re Playing Infinite?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-31&#x2F;) - When the game ends, who will be left to tally the final score?
 * [Care, Authority, Emotion](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;care-authority-emotion&#x2F;) - A dive into Way of Kings by Brandon Sanderson and examining three themes from the book
 * [Anergy &amp; Software](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;anergy-software&#x2F;) - People really come into their own, find the muscle in their spirits, and leave pure marks on the world when they step out of their cozy bubbles, decide to shake things up, and forge a change.
-* [Issue 30 - September Book Review!](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-30&#x2F;) - What book (or books) will reign supreme in September?
 <!--END_SECTION:feed-->
