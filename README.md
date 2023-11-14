@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [[Timelapse] Using ChatGPT to Code a Audio Player in Swift](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;timelapse&#x2F;) - I know very little about Swift development. Here&#39;s how I used ChatGPT to help me code an audio player, a second screen with textbox functionality, and a timer in ~30 minutes.
 * [Issue 34: We All Start As Strangers](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-34&#x2F;) - If you got a chance, take it!
 * [Issue 33: Is Using AI to Write Code Cheating?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-33&#x2F;) - No fair, Mom said it&#39;s my turn to convene with the spirits
 * [Issue 32: Go Meta on Time Management](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-32&#x2F;) - A few thoughts on time management
 * [Issue 31: Is the Game You&#39;re Playing Infinite?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-31&#x2F;) - When the game ends, who will be left to tally the final score?
-* [Care, Authority, Emotion](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;care-authority-emotion&#x2F;) - A dive into Way of Kings by Brandon Sanderson and examining three themes from the book
 <!--END_SECTION:feed-->
