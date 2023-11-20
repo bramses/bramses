@@ -16,9 +16,25 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [November 20 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;november-20-2023&#x2F;) - Music I&#39;m Listening To
+
+
+
+
+
+
+
+
+
+
+Pictures I Took
++ ⬆️ &#x3D; 🧭
+TV I&#39;m Watching
+
+Watch Virgin River | Netflix Official Site
+Searching for a fresh start, a nurse practitioner moves from LA to a remote northern California town and is surprised by what — and who — she
+* [Issue 35: Flywheels and Silicon Valley Deals](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-35&#x2F;) - A note on the sama drama, and an engine that hums
 * [Running a Zero Waste Flywheel](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;state-of-the-flywheel-november-2023&#x2F;) - Put your dollars to work!
 * [[Timelapse] Using ChatGPT to Code a Audio Player in Swift](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;timelapse&#x2F;) - I know very little about Swift development. Here&#39;s how I used ChatGPT to help me code an audio player, a second screen with textbox functionality, and a timer in ~30 minutes.
 * [Issue 34: We All Start As Strangers](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-34&#x2F;) - If you got a chance, take it!
-* [Issue 33: Is Using AI to Write Code Cheating?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-33&#x2F;) - No fair, Mom said it&#39;s my turn to convene with the spirits
-* [Issue 32: Go Meta on Time Management](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-32&#x2F;) - A few thoughts on time management
 <!--END_SECTION:feed-->
