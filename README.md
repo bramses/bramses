@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [November 22 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;november-22-2023&#x2F;) - wayne gretzky, carving carousel animals, book publishers
 * [November 21 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;november-21-2023&#x2F;) - novelty, the !Kung San, drones in the X-Games
 * [November 20 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;november-20-2023&#x2F;) - a white house, a church, scott pilgrim
 * [Issue 35: Flywheels and Silicon Valley Deals](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-35&#x2F;) - A note on the sama drama, and an engine that hums
 * [Running a Zero Waste Flywheel](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;state-of-the-flywheel-november-2023&#x2F;) - Put your dollars to work!
-* [[Timelapse] Using ChatGPT to Code a Audio Player in Swift](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;timelapse&#x2F;) - I know very little about Swift development. Here&#39;s how I used ChatGPT to help me code an audio player, a second screen with textbox functionality, and a timer in ~30 minutes.
 <!--END_SECTION:feed-->
