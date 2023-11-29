@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Life is for the living](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;life-is-for-the-living&#x2F;) - so what does that make death?
 * [Issue 36: The Gang&#39;s All Here](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-36&#x2F;) - Avengers, ASSEMBLE!!
 * [EraGuessr GPT](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;era-guessr-gpt&#x2F;) - a geo guessr like game with dalle, code interpreter and chatgpt
 * [November 24 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;november-24-2023&#x2F;) - virgin river, night owls, body scans
 * [November 23 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;november-23-2023&#x2F;) - celebrities in the Q Train station, western vs eastern attention to detail, rip brobot
-* [November 22 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;november-22-2023&#x2F;) - wayne gretzky, carving carousel animals, book publishers
 <!--END_SECTION:feed-->
