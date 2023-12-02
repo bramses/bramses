@@ -16,9 +16,17 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Rogue Rune - Quick Draw](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;rogue-rune-quick-draw&#x2F;) - Slot
+Chest
+What It Does
+Draw your ranged weapon and fire a quick shot at an enemy, causing normal ranged weapon damage and reducing the target&#39;s movement speed by 50% for 6 sec. Awards 1 combo point. 
+Quick Draw benefits from all talents and effects that trigger from
+* [Rogue Rune - Slaughter From the Shadows](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;rogue-rune-slaughter-from-the-shadows&#x2F;) - Slot
+Gloves
+What It Does
+Reduces the Energy cost of your Backstab and Ambush abilities by 20.
+Undead Zone
 * [Life is for the living](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;life-is-for-the-living&#x2F;) - so what does that make death?
 * [Issue 36: The Gang&#39;s All Here](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-36&#x2F;) - Avengers, ASSEMBLE!!
 * [EraGuessr GPT](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;era-guessr-gpt&#x2F;) - a geo guessr like game with dalle, code interpreter and chatgpt
-* [November 24 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;november-24-2023&#x2F;) - virgin river, night owls, body scans
-* [November 23 2023](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;november-23-2023&#x2F;) - celebrities in the Q Train station, western vs eastern attention to detail, rip brobot
 <!--END_SECTION:feed-->
