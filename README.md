@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Issue 37: Sixteen Weeks of Time Blocking](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-37&#x2F;) - When you hold the sand from a broken hourglass in your hands, it&#39;s just sand.
 * [Rogue Rune - Quick Draw](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;rogue-rune-quick-draw&#x2F;) - Information about the Quick Draw rune for Rogue
 * [Rogue Rune - Slaughter From the Shadows](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;rogue-rune-slaughter-from-the-shadows&#x2F;) - Information about the Slaughter from the Shadows rune for Rogue
 * [Life is for the living](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;life-is-for-the-living&#x2F;) - so what does that make death?
 * [Issue 36: The Gang&#39;s All Here](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-36&#x2F;) - Avengers, ASSEMBLE!!
-* [EraGuessr GPT](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;era-guessr-gpt&#x2F;) - a geo guessr like game with dalle, code interpreter and chatgpt
 <!--END_SECTION:feed-->
