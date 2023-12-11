@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Issue 38: The Art of Self-Surveillance](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-38&#x2F;) - I see...me
+* [Watch my 9mm tokens go bang](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;watch-my-9mm-tokens-go-bang&#x2F;) - gon&#39;s inevitable demise, new braden ross album, rich people stealing candy from babies
 * [Who Gets to Relax, Anyway?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;who-gets-to-relax-anyway&#x2F;) - my fanciest coffin(!)
 * [Priest Runes - Trisfal Glades](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;priest-runes-trisfal-glades&#x2F;) - how to obtain the priest runes in Trisfal
 * [My Site Eats First](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-greedy-domain&#x2F;) - as it should be!
-* [ARBITRAGE](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;arbitrage&#x2F;) - im all in on arbitrage
-* [Issue 37: Sixteen Weeks of Time Blocking](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-37&#x2F;) - When you hold the sand from a broken hourglass in your hands, it&#39;s just sand.
 <!--END_SECTION:feed-->
