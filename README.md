@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Issue 39: The Losers of the Open Source Movement](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-39&#x2F;) - When the movement trends towards a cult
 * [Pump Fake](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;pump-fake&#x2F;) - home team, poor things, and wow machinimas
 * [Issue 38: The Art of Self-Surveillance](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-38&#x2F;) - I see...me
 * [Watch my 9mm tokens go bang](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;watch-my-9mm-tokens-go-bang&#x2F;) - gon&#39;s inevitable demise, new braden ross album, rich people stealing candy from babies
 * [Who Gets to Relax, Anyway?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;who-gets-to-relax-anyway&#x2F;) - my fanciest coffin(!)
-* [Priest Runes - Trisfal Glades](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;priest-runes-trisfal-glades&#x2F;) - how to obtain the priest runes in Trisfal
 <!--END_SECTION:feed-->
