@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Issue 40: The Holiday Edition Pt. I](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-40&#x2F;) - Father Christmas carries a BIG BAG (of baggage)
 * [Dealing with Rejection](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;dealing-with-rejection&#x2F;) - how Gon rejected himself, finding the area of a square, i really wanna stay at your house
 * [Issue 39: The Losers of the Open Source Movement](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-39&#x2F;) - When the movement trends towards a cult
 * [Pump Fake](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;pump-fake&#x2F;) - home team, poor things, and wow machinimas
 * [Issue 38: The Art of Self-Surveillance](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-38&#x2F;) - I see...me
-* [Watch my 9mm tokens go bang](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;watch-my-9mm-tokens-go-bang&#x2F;) - gon&#39;s inevitable demise, new braden ross album, rich people stealing candy from babies
 <!--END_SECTION:feed-->
