@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Drafting Predictions, Jumping Ahead in Supergods](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;standup-2023-12-31&#x2F;) - &quot;if i can&#39;t be richard burton, i&#39;ll simply marry him instead.&quot;
 * [7 Books I Read In 2023 That Live In My Head Rent Free](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;top-books-2023&#x2F;) - as a Creative Technologist
 * [Finding Lessons, Vampires, The Curse of the First Third](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;finding-lessons-vampires-the-curse-of-the-first-third&#x2F;) - (mis)adventures of December 29th
 * [yōkai, wallpaper, fruit](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;random-crops&#x2F;) - random crops
 * [Cropping Meaning](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;cropping-meaning&#x2F;) - an Atrioc x Sleep Token mashup, i cook for strength to make good swords, a look back on 2023, a girls trip to miami
-* [Issue 40: Santa&#39;s Got a BIG BAG (of baggage)](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-40&#x2F;) - The Holiday Edition Pt. I
 <!--END_SECTION:feed-->
