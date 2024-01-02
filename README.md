@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [ZANZIB(AI)R](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;standup-2024-01-01&#x2F;) - essays masquerading as newsletters, my two cents, using functions to change system calls, meditate on being a student for eternity
 * [Issue 41: Reflecting on 2023 and Predictions for 2024](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-41&#x2F;) - The Holiday Issue Part II
 * [Drafting Predictions, Jumping Ahead in Supergods](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;standup-2023-12-31&#x2F;) - &quot;if i can&#39;t be richard burton, i&#39;ll simply marry him instead.&quot;
 * [7 Books I Read In 2023 That Live In My Head Rent Free](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;top-books-2023&#x2F;) - as a Creative Technologist
 * [Finding Lessons, Vampires, The Curse of the First Third](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;finding-lessons-vampires-the-curse-of-the-first-third&#x2F;) - (mis)adventures of December 29th
-* [yōkai, wallpaper, fruit](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;random-crops&#x2F;) - random crops
 <!--END_SECTION:feed-->
