@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [GPTs for Mom &amp; Pops](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;gpts-for-mom-pops&#x2F;) - judge whats happening inside for yourselves
 * [Heist Movies Need CCTV to Work](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;standup-2024-01-03&#x2F;) - what can we do in ten minutes? the nearly identical twin dilemma. even emperors cry.
 * [How to Price Your S(asS)](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;standup-2024-01-02&#x2F;) - chatgpt making pdfs, nflx binges
 * [ZANZIB(AI)R](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;standup-2024-01-01&#x2F;) - essays masquerading as newsletters, my two cents, using functions to change system calls, meditate on being a student for eternity
 * [Issue 41: Reflecting on 2023 and Predictions for 2024](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-41&#x2F;) - The Holiday Issue Part II
-* [Drafting Predictions, Jumping Ahead in Supergods](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;standup-2023-12-31&#x2F;) - &quot;if i can&#39;t be richard burton, i&#39;ll simply marry him instead.&quot;
 <!--END_SECTION:feed-->
