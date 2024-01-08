@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Issue 42: Are GPTs Websites?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-42&#x2F;) - Or are they perhaps something else altogether?
 * [Japanese Covers of 2000s Pop Punk Go Hard](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-2024-01-05&#x2F;) - 2024 we need more rajivs and less alis, the joker v taylor, get your ASS to work!
 * [GPTs for Mom &amp; Pops](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;gpts-for-mom-pops&#x2F;) - judge whats happening inside for yourselves
 * [Heist Movies Need CCTV to Work](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;standup-2024-01-03&#x2F;) - what can we do in ten minutes? the nearly identical twin dilemma. even emperors cry.
 * [How to Price Your S(asS)](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;standup-2024-01-02&#x2F;) - chatgpt making pdfs, nflx binges
-* [ZANZIB(AI)R](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;standup-2024-01-01&#x2F;) - essays masquerading as newsletters, my two cents, using functions to change system calls, meditate on being a student for eternity
 <!--END_SECTION:feed-->
