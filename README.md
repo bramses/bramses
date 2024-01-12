@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Hunter x GPT](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;standup-2024-01-11&#x2F;) - considering a video podcast companion for the newsletter
 * [~Hey GPT, Listen!~](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;hey-gpt-listen&#x2F;) - the nouveau internet economics models, the dark souls of gpts, stay on target, storming organs
 * [MTA GPT Inc](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;standup-2024-01-09&#x2F;) - protobuf, chaining, dead beetles in your ear
 * [Issue 42: Are GPTs Websites?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-42&#x2F;) - Or are they perhaps something else altogether?
 * [Japanese Covers of 2000s Pop Punk Go Hard](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-2024-01-05&#x2F;) - 2024 we need more rajivs and less alis, the joker v taylor, get your ASS to work!
-* [GPTs for Mom &amp; Pops](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;gpts-for-mom-pops&#x2F;) - judge whats happening inside for yourselves
 <!--END_SECTION:feed-->
