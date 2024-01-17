@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Graphs on Deep Leisure](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;graphs-on-deep-leisure&#x2F;) - time wasted -- perhaps not?
+* [Reflections on 2023 &amp; Predictions for 2024 [Video Version]](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;reflections-on-2023-predictions-for-2024-video-version&#x2F;) - Video version of issue #41
 * [Issue 43: Are Our Goals Holding Us Prisoner?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-43&#x2F;) - Does free will exist within a goal?
 * [Are GPTs Websites? [Video Version]](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;are-gpts-websites-video-version&#x2F;) - Video version of Issue 42
 * [Brammy Phantom](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-2024-01-12&#x2F;) - 27 seconds, finland, power fantasy anime
-* [Hunter x GPT](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;standup-2024-01-11&#x2F;) - considering a video podcast companion for the newsletter
-* [~Hey GPT, Listen!~](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;hey-gpt-listen&#x2F;) - the nouveau internet economics models, the dark souls of gpts, stay on target, storming organs
 <!--END_SECTION:feed-->
