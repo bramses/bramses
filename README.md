@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Obsidian Repos](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;obsidian-repos&#x2F;) - all the repos ive built over the years for obsidian
+* [If You&#39;re Gonna Be A Hater, See It Through to the End](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;if-youre-gonna-be-a-hater-see-it-through&#x2F;) - true h8rs h8 till infinity (sideways 8)
 * [Graphs on Deep Leisure](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;graphs-on-deep-leisure&#x2F;) - time wasted -- perhaps not?
 * [Reflections on 2023 &amp; Predictions for 2024 [Video Version]](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;reflections-on-2023-predictions-for-2024-video-version&#x2F;) - Video version of issue #41
 * [Issue 43: Are Our Goals Holding Us Prisoner?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-43&#x2F;) - Does free will exist within a goal?
-* [Are GPTs Websites? [Video Version]](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;are-gpts-websites-video-version&#x2F;) - Video version of Issue 42
-* [Brammy Phantom](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-2024-01-12&#x2F;) - 27 seconds, finland, power fantasy anime
 <!--END_SECTION:feed-->
