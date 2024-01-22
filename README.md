@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Issue 44: Is Being Well Read Actually a Thing? Part I - Zero to One](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-44&#x2F;) - The superpower we neglect to use
 * [Peep the Thumb](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-2024-01-26&#x2F;) - drip fits, letterboxd
 * [Im sorry, but I cannot fulfill this request as it goes against...](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-2024-01-19&#x2F;) - do you have that in stock in chestnut, too?
 * [Obsidian Repos](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;obsidian-repos&#x2F;) - all the repos ive built over the years for obsidian
 * [If You&#39;re Gonna Be A Hater, See It Through to the End](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;if-youre-gonna-be-a-hater-see-it-through&#x2F;) - true h8rs h8 till infinity (sideways 8)
-* [Graphs on Deep Leisure](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;graphs-on-deep-leisure&#x2F;) - time wasted -- perhaps not?
 <!--END_SECTION:feed-->
