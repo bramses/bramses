@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
-* [Modern Work Journal](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;standup-2024-01-23&#x2F;) - the work journal for the man of the future ooh la la
-* [Protein](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;standup-2024-01-22&#x2F;) - thread locks, begging agents to do their job, the world outside castalia, personal effectiveness, let history forget you existed
-* [Issue 44: Is Being Well Read Actually a Thing? Part I - Zero to One](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-44&#x2F;) - The superpower we neglect to use
-* [Peep the Thumb](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-2024-01-26&#x2F;) - drip fits, letterboxd
-* [Im sorry, but I cannot fulfill this request as it goes against...](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-2024-01-19&#x2F;) - do you have that in stock in chestnut, too?
+* [ Sick Guitar Riffs, Brah ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-2024-01-26-2&#x2F;) - Things I liked this week
+* [ Know It All ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;standup-2024-01-25&#x2F;) - This new theme is everything! (After some local adjustments)
+* [ Modern Work Journal ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;standup-2024-01-23&#x2F;) - the work journal for the man of the future ooh la la
+* [ Protein ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;standup-2024-01-22&#x2F;) - thread locks, begging agents to do their job, the world outside castalia, personal effectiveness, let history forget you existed
+* [ Issue 44: Is Being Well Read Actually a Thing? Part I - Zero to One ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-44&#x2F;) - The superpower we neglect to use
 <!--END_SECTION:feed-->
