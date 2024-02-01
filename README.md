@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [ You Can&amp;#x27;t Control The UX ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;standup-2024-01-31&#x2F;) - OO, reading to escape time, the Democrats wanted BOMBS
 * [ Issue 45: Is Being Well Read Actually A Thing? Pt II: The Upper Class of Readers ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-45&#x2F;) - How we can achieve reader mobility through inertia, and become a master with density
 * [ Circa Timeline ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;circa-timeline&#x2F;) - me over the decades
 * [ Sick Guitar Riffs, Brah ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-2024-01-26-2&#x2F;) - Things I liked this week
 * [ Know It All ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;standup-2024-01-25&#x2F;) - This new theme kicks ass! (After some local adjustments)
-* [ Modern Work Journal ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;standup-2024-01-23&#x2F;) - the work journal for the man of the future ooh la la
 <!--END_SECTION:feed-->
