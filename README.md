@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [ How To Add Clickable Thumbnail Youtube Videos to ChatGPT ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;how-to-add-youtube-videos-to-chatgpt&#x2F;) - quick tip!
+* [ My Thoughts on Excellent Advice for Living ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;my-thoughts-on-excellent-advice-for-living&#x2F;) - by Kevin Kelly
+* [ Dating Apps and Snaps ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-2024-02-09&#x2F;) - prompt fns, gilgamesh, raya, the world is a vampire
 * [ Issue 46: Is Being Well Read Actually a Thing? Pt III: The Well-Read Archetypes ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-46&#x2F;) - On being well read within, without, by mastery
 * [ You Have Spent Money ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-2024-02-02&#x2F;) - if you guys are hunters, try hunting me
-* [ You Cant Control The UX ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;standup-2024-01-31&#x2F;) - OO, reading to escape time, the Democrats wanted BOMBS
-* [ Issue 45: Is Being Well Read Actually A Thing? Pt II: The Upper Class of Readers ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-45&#x2F;) - How we can achieve reader mobility through inertia, and become a master with density
-* [ Circa Timeline ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;circa-timeline&#x2F;) - me over the decades
 <!--END_SECTION:feed-->
