@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [ My Thoughts on Nefertiti ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;my-thoughts-on-nefertiti&#x2F;) - by Michelle Moran
+* [ My Thoughts on Permanent Midnight ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;my-thoughts-on-permanent-midnight&#x2F;) - by Jerry Stahl
 * [ How To Add Clickable Thumbnail Youtube Videos to ChatGPT ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;how-to-add-youtube-videos-to-chatgpt&#x2F;) - quick tip!
 * [ My Thoughts on Excellent Advice for Living ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;my-thoughts-on-excellent-advice-for-living&#x2F;) - by Kevin Kelly
 * [ Dating Apps and Snaps ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-2024-02-09&#x2F;) - prompt fns, gilgamesh, raya, the world is a vampire
-* [ Issue 46: Is Being Well Read Actually a Thing? Pt III: The Well-Read Archetypes ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-46&#x2F;) - On being well read within, without, by mastery
-* [ You Have Spent Money ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-2024-02-02&#x2F;) - if you guys are hunters, try hunting me
 <!--END_SECTION:feed-->
