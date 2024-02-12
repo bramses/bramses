@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [ Issue 47: How to Find Your Muse in Museums ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-47&#x2F;) - A museum doesn&#39;t have to be a mausoleum
 * [ My Thoughts on Nefertiti ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;my-thoughts-on-nefertiti&#x2F;) - by Michelle Moran
 * [ My Thoughts on Permanent Midnight ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;my-thoughts-on-permanent-midnight&#x2F;) - by Jerry Stahl
 * [ How To Add Clickable Thumbnail Youtube Videos to ChatGPT ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;how-to-add-youtube-videos-to-chatgpt&#x2F;) - quick tip!
 * [ My Thoughts on Excellent Advice for Living ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;my-thoughts-on-excellent-advice-for-living&#x2F;) - by Kevin Kelly
-* [ Dating Apps and Snaps ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-2024-02-09&#x2F;) - prompt fns, gilgamesh, raya, the world is a vampire
 <!--END_SECTION:feed-->
