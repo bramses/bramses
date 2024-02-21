@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [ When the Fantasy of the Weak Peaked ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;my-thoughts-on-solo-leveling&#x2F;) - My Thoughts on Solo Leveling by Chu-Gong
 * [ Issue 48: The History You Miss on Your Way to Work ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-48&#x2F;) - and the futures you create
 * [ The Insects are Throwing Parties Again ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-02-16-2024&#x2F;) - and they didn&#39;t bother inviting me?
 * [ My Thoughts On The Quest of the Simple Life ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;my-thoughts-on-the-quest-of-the-simple-life&#x2F;) - by W.J. Dawson
 * [ My Thoughts on Maxims for Thinking Analytically ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;my-thoughts-on-maxims-for-thinking-analytically&#x2F;) - by Dan Levy
-* [ Issue 47: How to Find Your Muse in Museums ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-47&#x2F;) - A museum doesn&#39;t have to be a mausoleum
 <!--END_SECTION:feed-->
