@@ -16,9 +16,36 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [ Track Time in GPT with Code Interpreter ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;timers-in-gpt&#x2F;) - 0:00
+
+&#x2F;0:28
+
+
+1×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GPT can track time, it turns out. With some help from code interpreter.
+
+Using a one-shot (instructions below), you can chain real time with time.sleep to your custom GPT&#x2F;assistant functionality with no external servers needed.
+
+Each ping comes in after 3 seconds (+ small
+* [ GPT UX Patterns ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;gpt-ux-patterns&#x2F;) - New UX patterns are being discovered every day!
+* [ Patterns: Dead or Alive ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-2024-02-23&#x2F;) - how does a jedi die from being tired?
 * [ When the Fantasy of the Weak Peaked ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;my-thoughts-on-solo-leveling&#x2F;) - My Thoughts on Solo Leveling by Chu-Gong
 * [ Issue 48: The History You Miss on Your Way to Work ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-48&#x2F;) - and the futures you create
-* [ The Insects are Throwing Parties Again ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-02-16-2024&#x2F;) - and they didn&#39;t bother inviting me?
-* [ My Thoughts On The Quest of the Simple Life ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;my-thoughts-on-the-quest-of-the-simple-life&#x2F;) - by W.J. Dawson
-* [ My Thoughts on Maxims for Thinking Analytically ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;my-thoughts-on-maxims-for-thinking-analytically&#x2F;) - by Dan Levy
 <!--END_SECTION:feed-->
