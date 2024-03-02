@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [ If the Universe was Turing Complete ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;my-thoughts-on-at-home-in-the-universe&#x2F;) - My Thoughts on At Home in the Universe by Stuart Kauffman
 * [ How Big is Africa? ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-2024-03-01&#x2F;) - pretty big, turns out
 * [ Issue 49: Trillions of Lines Written, and We&amp;#x27;re Still at Day Zero ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-49&#x2F;) - Will code ever be finished?
 * [ Track Time in GPT with Code Interpreter ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;timers-in-gpt&#x2F;) - creating a &quot;loading bar&quot;!
 * [ GPT UX Patterns ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;gpt-ux-patterns&#x2F;) - New UX patterns are being discovered every day!
-* [ Patterns: Dead or Alive ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-2024-02-23&#x2F;) - how does a jedi die from being tired?
 <!--END_SECTION:feed-->
