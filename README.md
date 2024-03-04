@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [ Issue 50: Reset your Social Media Annually ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-50&#x2F;) - On the controlled burn of online profiles
 * [ Learning to Podcast: Week of March 2nd ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;learning-to-podcast-week-of-march-2nd&#x2F;) - foibles and lessons
 * [ If the Universe was Turing Complete ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;my-thoughts-on-at-home-in-the-universe&#x2F;) - My Thoughts on At Home in the Universe by Stuart Kauffman
 * [ How Big is Africa? ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-2024-03-01&#x2F;) - pretty big, turns out
 * [ Issue 49: Trillions of Lines Written, and We&amp;#x27;re Still at Day Zero ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-49&#x2F;) - Will code ever be finished?
-* [ Track Time in GPT with Code Interpreter ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;timers-in-gpt&#x2F;) - creating a &quot;loading bar&quot;!
 <!--END_SECTION:feed-->
