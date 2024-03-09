@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [ You are tiring yourself, Joseph. ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;my-thoughts-on-the-glass-bead-game&#x2F;) - My Thoughts on The Glass Bead Game by Herman Hesse
 * [ A Discussion on Building Successful Agent APIs ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;a-discussion-on-building-successful-agent-apis&#x2F;) - Beta Episode 1: How to kickstart successful API projects using the OpenAI API
 * [ Exhaustion is Freneticism is Exhaustion ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;exhaustion-is-freneticism-is-exhaustion&#x2F;) - My Thoughts on The Burnout Society by Byung-Chul Han
 * [ I Don&amp;#x27;t Work on bramadams.dev For You ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;i-dont-work-on-bramadams-dev-for-you&#x2F;) - My Thoughts on The Creative Act: A Way of Being by Rick Rubin
 * [ Is It Worse to Be A Good Citizen? ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;my-thoughts-on-alone-in-berlin-play&#x2F;) - My Thoughts on Alone in Berlin (Play) by Hans Falida
-* [ More Podcast Setup ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;more-podcast-setup-03-04-2024&#x2F;) - continued work on podcast setup
 <!--END_SECTION:feed-->
