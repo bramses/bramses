@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [ The Role is for &amp;quot;Grandson&amp;quot; ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-03-29-2024&#x2F;) - re-finding an old song i liked a lot, fym rasengans don&#39;t work on him?
 * [ MapGPT is doing numbers ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-03-22-24&#x2F;) - and so is my GCP account
 * [ Issue 52: A Year Around the Sun ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-52&#x2F;) - Reflections on a year of newsletter-ing, and what to look forward to next year.
 * [ Will you search through the loamy earth for me? ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-03-14-2024&#x2F;) - Climb through the briar and bramble
 * [ Issue 51: Your Art or Your Life ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-51&#x2F;) - Why a Personal Domain is your Domain
-* [ Divine Shield 0&#x2F;2s ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-03-08-2024&#x2F;) - That day everyone forgot about The Beatles
 <!--END_SECTION:feed-->
