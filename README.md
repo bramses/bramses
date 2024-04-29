@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [ Issue 55: Personal Computing Paves the Way ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-55&#x2F;) - How the past of Personal Computing gives us a hint into the future of Personal Library Science
 * [ Week of April 26, 2024 ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;week-of-april-26-2024&#x2F;) - ft. Chris. P Bacon
 * [ Issue 54: Personal Library Science ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-54&#x2F;) - How do we manage the libraries of us?
 * [ Week of April 19,2024 ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-04-19-2024&#x2F;) - what i thought was interesting this week: vannevar bush, suzume, killua v tanks, fan fiction anime metal, travis scotts fall, ai music, neat ghost feature learned by mistake, more!
 * [ Issue 53: We&amp;#x27;re Back, Baby! ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-53&#x2F;) - Introducing a new field of study, and a plan...
-* [ Ball Is Life! ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-april-12-2024&#x2F;) - almost friday tv is better than most studio productions
 <!--END_SECTION:feed-->
