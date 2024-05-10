@@ -1,6 +1,6 @@
 Bram Adams (@bramses) is a creative technologist and commonplacer based out of NYC. 
 
-Bram publishes a weekly newsletter, is a [community developer ambassador for OpenAI](https://platform.openai.com/ambassadors), and does freeleance contracts ([for hire!](https://www.bramadams.dev/consulting/)) related to AI/web dev/AR+VR. 
+Bram publishes a weekly newsletter, is a [community developer ambassador for OpenAI](https://platform.openai.com/ambassadors), and does contracts ([for hire!](https://www.bramadams.dev/consulting/)) related to AI/web dev/AR+VR. 
 
 **_today_**
 
