@@ -26,9 +26,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [ Week of May 31, 2024 ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;week-of-may-31-2024&#x2F;) - you&#39;re either on photography or you&#39;re in photography (5x mode on your iPhone that is)
 * [ Issue 56: Upgrading a 500 Year Old Technology ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-56&#x2F;) - What&#39;s old is new again
 * [ Week of May 24, 2024 ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;week-of-may-24-2024&#x2F;) - Bit of a spending spree.
 * [ Week of May 17, 2024 ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;week-of-may-17-2024&#x2F;) - a bit sad, and yet we party
 * [ Week of May 10, 2024 ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;week-of-may-10-2024&#x2F;) - ill just start over
-* [ Week of May 03, 2024 ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;core-dump-05-03-2024&#x2F;) - hxh photo dump, asmr boyfriends, not much effort on movies or books this week unfortunately
 <!--END_SECTION:feed-->
