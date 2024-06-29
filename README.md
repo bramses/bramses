@@ -33,9 +33,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [ Week of June 28, 2024 ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;week-of-june-28-2024&#x2F;) - he&#39;s sick!
 * [ Week of Jun 21, 2024 ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;week-of-jun-21-2024&#x2F;) - put emotion in a box
 * [ Week of Jun 14, 2024 ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;week-of-jun-14-2024&#x2F;) - we code on trains
 * [ Week of June 7th 2024 ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;week-of-june-7th-2024&#x2F;) - we out hurr
 * [ Week of May 31, 2024 ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;week-of-may-31-2024&#x2F;) - you&#39;re either on photography or you&#39;re in photography (5x mode on your iPhone that is)
-* [ Issue 56: Upgrading a 500 Year Old Technology ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-56&#x2F;) - What&#39;s old is new again
 <!--END_SECTION:feed-->
