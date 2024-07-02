@@ -33,9 +33,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [ The Art...Part III ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-art-part-iii&#x2F;) - this is getting ridiculous
 * [ The Art...Part II ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-art-part-ii&#x2F;) - leaf mode comes in clutch
 * [ The Art of Clustering Commonbase Entries ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-art-of-clustering-commonbase-entries&#x2F;) - ill make a folder out of you
 * [ Week of June 28, 2024 ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;week-of-june-28-2024&#x2F;) - he&#39;s sick!
 * [ Week of Jun 21, 2024 ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;week-of-jun-21-2024&#x2F;) - put emotion in a box
-* [ Week of Jun 14, 2024 ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;week-of-jun-14-2024&#x2F;) - we code on trains
 <!--END_SECTION:feed-->
