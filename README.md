@@ -15,8 +15,6 @@ As of Summer 2024, Bram is actively working on two intertwined missions: the fou
 
 [Commonplace Bot](https://github.com/bramses/commonplace-bot) and its sibling projects: [Quoordinates](https://github.com/bramses/quoordinates) and [Quo-Host](https://github.com/bramses/quo-host), are the world's first look into what he future of reading books and retention will look like with the influence of LLMs. You can test Commonplace Bot out live in the Bram Adams' [Discord server](https://discord.gg/GrgkFP3Je3). 
 
-The **active work prototypes** for general Commonbase build can be found in the prototype libraries [Commonbase Editor Prototype](https://github.com/bramses/commonbase-editor-prototype-quill) and [Commonbase Prototype](https://github.com/bramses/commonbase-prototype).
-
 Check out all the projects by starring the topic: [#future-of-reading](https://github.com/topics/future-of-reading).
 
 **_other projects and experiences include_**
