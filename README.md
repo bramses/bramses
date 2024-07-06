@@ -33,9 +33,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [ On Maps and Trails ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;on-maps-and-trails&#x2F;) - dont sacrifice the forest for the trees
 * [ On Vowels ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;on-vowels&#x2F;) - consonants are edges for vowels
 * [ Sparkinsons Law of Commonbasing ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;sparkinsons-law-of-commonbasing&#x2F;) - a commonbase knows you more than you know int(ernet)
 * [ The Art...Part III ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-art-part-iii&#x2F;) - this is getting ridiculous
 * [ The Art...Part II ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-art-part-ii&#x2F;) - leaf mode comes in clutch
-* [ The Art of Clustering Commonbase Entries ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-art-of-clustering-commonbase-entries&#x2F;) - ill make a folder out of you
 <!--END_SECTION:feed-->
