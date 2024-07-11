@@ -4,13 +4,6 @@ Bram publishes a weekly newsletter, is a [community developer ambassador for Ope
 
 **_today_**
 
----
-
-**CHQ 150 Talk July 2nd, 2024! See more:** https://www.linkedin.com/feed/update/urn:li:activity:7211431125183836161/
-
----
-
-
 As of Summer 2024, Bram is actively working on two intertwined missions: the foundation and formalizations of the [core philosophies of personal library science](https://news.ycombinator.com/item?id=40192359), and writing the initial software that powers it: **[Your Commonbase](https://bramses.notion.site/Your-Commonbase-Research-Product-Updates-96bc14d2a7564f17be9f6957070e1262)** (Commonplace Book + LLM Augmented Database). 
 
 [Commonplace Bot](https://github.com/bramses/commonplace-bot) and its sibling projects: [Quoordinates](https://github.com/bramses/quoordinates) and [Quo-Host](https://github.com/bramses/quo-host), are the world's first look into what he future of reading books and retention will look like with the influence of LLMs. You can test Commonplace Bot out live in the Bram Adams' [Discord server](https://discord.gg/GrgkFP3Je3). 
