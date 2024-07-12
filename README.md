@@ -26,9 +26,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [ I Have a Kink for Links ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;i-have-a-kink-for-links&#x2F;) - double brackets across the sky
 * [ Paging Dr. Pagination ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;paging-dr-pagination&#x2F;) - pages; we rages
 * [ Adjacent Possible Business Models ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;adjacent-possible-business-models&#x2F;) - welfin has one word to make his pitch of not getting eaten to the king
 * [ On Maps and Trails ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;on-maps-and-trails&#x2F;) - dont sacrifice the forest for the trees
 * [ On Vowels ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;on-vowels&#x2F;) - consonants are edges for vowels
-* [ Sparkinsons Law of Commonbasing ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;sparkinsons-law-of-commonbasing&#x2F;) - a commonbase knows you more than you know int(ernet)
 <!--END_SECTION:feed-->
