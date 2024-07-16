@@ -26,9 +26,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [ Trust the Process ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;trust-the-process&#x2F;) - take it one day at a time.
 * [ Closing the Loop ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;closing-the-loop&#x2F;) - weve won this battle kirei
 * [ All My Homies Rerank Their Embeddings ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;all-my-homies-rerank-their-embeddings&#x2F;) - its getting hot in here, so edit all your rows
 * [ I Have a Kink for Links ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;i-have-a-kink-for-links&#x2F;) - double brackets across the sky
 * [ Paging Dr. Pagination ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;paging-dr-pagination&#x2F;) - pages; we rages
-* [ Adjacent Possible Business Models ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;adjacent-possible-business-models&#x2F;) - welfin has one word to make his pitch of not getting eaten to the king
 <!--END_SECTION:feed-->
