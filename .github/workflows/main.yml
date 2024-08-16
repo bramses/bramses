@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://www.bramadams.dev/blog/rss/
+          feed-url: https://www.bramadams.dev/rss/
           readme-section: feed
           branch: master
           template: "* [{{ title }}]({{ link }}) - {{ contentSnippet }}"
