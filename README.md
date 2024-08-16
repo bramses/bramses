@@ -26,9 +26,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
-* [ You Gotta Do What You Gotta Do ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;you-gotta-do-what-you-gotta-do&#x2F;) - the battle between whats necessary and what is cool
-* [ Going ON the Grid ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;going-on-the-grid&#x2F;) - grids, sqlite, prisma, electron ... shenanigans
-* [ Buy Local Build a Future ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;buy-local-build-a-future&#x2F;) - lets get this show on the road
-* [ Trust the Process ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;trust-the-process&#x2F;) - take it one day at a time.
-* [ Closing the Loop ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;closing-the-loop&#x2F;) - weve won this battle kirei
+* [Im Talking Heuh](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;im-talking-heuh&#x2F;) - on my chq150 talk, state mgmt, flowcharts, i love aliases, finally a landing page, insider baseball, loaders
+* [Putting Some Wind in my Tails](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;putting-some-wind-in-my-tails&#x2F;) - twitter embeds, e2e inserts with synced ids, aliases, tailwind cards
+* [Dockercore and Metalcore](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;dockercore-and-metalcore&#x2F;) - docker goes core
+* [Aliases and Nautiluses](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;aliases-and-nautiluses&#x2F;) - nuclear fission of the desktop app and my new love for tags
+* [Syncing and Thinking](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;syncing-and-thinking&#x2F;) - moving towards your goal by just deciding to change it i guess
 <!--END_SECTION:feed-->
