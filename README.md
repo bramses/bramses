@@ -26,9 +26,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Issue 57: Can You Back Into a Second Brain with a Collection of Software Features?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;can-you-back-into-a-second-brain-with-features&#x2F;) - We&#39;re coming up on a launch, you see!
 * [Too Many Tweets in this Post](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;too-many-tweets-in-this-post&#x2F;) - Sorry, this one seemed to have gotten away from me.
 * [Search Engine View Goes Hard](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;search-engine-view-goes-hard&#x2F;) - Links, Fast Upload, a waitlist, click through dates, better calendar, delete from grid, one click chrome extension, the search engine view, related entries
 * [Its Time to Go Alpha](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;its-time-to-go-alpha&#x2F;) - marketing lingo, setting up an alpha, streaming again poss, simple chrome ext, ios shortcut, keyword search too, collections
 * [Hitting the Griddy and Getting Cache in the Garden](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;hitting-the-griddy-and-getting-cache-in-the-garden&#x2F;) - upload page, random and web search buttons, gardening your entires, grid, cache, dreaming of a central server
-* [Im Talking Heuh](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;im-talking-heuh&#x2F;) - on my chq150 talk, state mgmt, flowcharts, i love aliases, finally a landing page, insider baseball, loaders
 <!--END_SECTION:feed-->
