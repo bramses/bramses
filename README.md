@@ -1,14 +1,8 @@
-Bram Adams (@bramses) is a creative technologist and commonplacer based out of NYC. 
-
-Bram publishes a weekly newsletter, is a [community developer ambassador for OpenAI](https://platform.openai.com/ambassadors), and does contracts ([for hire!](https://www.bramadams.dev/consulting/)) related to AI/web dev/AR+VR. 
+Bram publishes a newsletter, is a [community developer ambassador for OpenAI](https://platform.openai.com/ambassadors), and does consulting ([for hire!](https://www.bramadams.dev/consulting/)) related to AI/web dev/AR+VR. 
 
 **_today_**
 
-As of Summer 2024, Bram is actively working on two intertwined missions: the foundation and formalizations of the [core philosophies of personal library science](https://news.ycombinator.com/item?id=40192359), and writing the initial software that powers it: **[Your Commonbase](https://bramses.notion.site/Your-Commonbase-Research-Product-Updates-96bc14d2a7564f17be9f6957070e1262)** (Commonplace Book + LLM Augmented Database). 
-
-[Commonplace Bot](https://github.com/bramses/commonplace-bot) and its sibling projects: [Quoordinates](https://github.com/bramses/quoordinates) and [Quo-Host](https://github.com/bramses/quo-host), are the world's first look into what he future of reading books and retention will look like with the influence of LLMs. You can test Commonplace Bot out live in the Bram Adams' [Discord server](https://discord.gg/GrgkFP3Je3). 
-
-Check out all the projects by starring the topic: [#future-of-reading](https://github.com/topics/future-of-reading).
+As of Fall 2024, Bram is actively working on two intertwined missions: the foundation and formalizations of the [core philosophies of personal library science](https://news.ycombinator.com/item?id=40192359), and writing the initial software that powers it: **[Your Commonbase](https://bramses.notion.site/Your-Commonbase-BETA-10b034182ddd8038b9ffe11cc2833713)** (Zero Stress Store, Search, Share Scrapbook). 
 
 **_other projects and experiences include_**
 
