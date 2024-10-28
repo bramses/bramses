@@ -20,9 +20,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Issue 59: Are Inboxes Evil?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-59-are-inboxes-evil&#x2F;) - What are the rules of the Inbox?
 * [Issue 58: The Words in Your Journals in the Ears of Others](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-words-in-your-journals-in-the-ears-of-others-2&#x2F;) - The sounds of the words you speak may lie on your own lips, but if you do not relinquish them entirely to a listener they never become words, and you say nothing at all. The words die with the sound.
 * [Building a Second Brain Workshop: Mitigating the Cost of Second Brains](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;building-a-second-brain-workshop-mitigating-the-cost-of-second-brains&#x2F;) - Let&#39;s talk about the real costs of knowledge management!
 * [Mind the Gap](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;mind-the-gap&#x2F;) - When you&#39;re not coding, the stress creeps in
 * [Issue 57: Can You Back Into a Second Brain with a Collection of Software Features?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;can-you-back-into-a-second-brain-with-features&#x2F;) - We&#39;re coming up on a launch, you see!
-* [Too Many Tweets in this Post](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;too-many-tweets-in-this-post&#x2F;) - Sorry, this one seemed to have gotten away from me.
 <!--END_SECTION:feed-->
