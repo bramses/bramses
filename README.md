@@ -2,7 +2,7 @@ Bram publishes a newsletter, is a [community developer ambassador for OpenAI](ht
 
 **_today_**
 
-As of Fall 2024, Bram is actively working on two intertwined missions: the foundation and formalizations of the [core philosophies of personal library science](https://news.ycombinator.com/item?id=40192359), and writing the initial software that powers it: **[Your Commonbase](https://bramses.notion.site/Your-Commonbase-BETA-10b034182ddd8038b9ffe11cc2833713)** (Zero Stress Store, Search, Share Scrapbook). 
+As of Fall 2024, Bram is actively working on two intertwined missions: the foundation and formalizations of the [core philosophies of personal library science](https://news.ycombinator.com/item?id=40192359), and writing the initial software that powers it: **[Your Commonbase](https://bramses.notion.site/Your-Commonbase-BETA-10b034182ddd8038b9ffe11cc2833713)** (A Self Organizing Screpbook with Zero Stress Storing, Searching, and Sharing). 
 
 **_other projects and experiences include_**
 
