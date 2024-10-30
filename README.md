@@ -1,8 +1,4 @@
-Bram publishes a newsletter, is a [community developer ambassador for OpenAI](https://platform.openai.com/ambassadors), and does consulting ([for hire!](https://www.bramadams.dev/consulting/)) related to AI/web dev/AR+VR. 
-
-**_today_**
-
-As of Fall 2024, Bram is actively working on two intertwined missions: the foundation and formalizations of the [core philosophies of personal library science](https://news.ycombinator.com/item?id=40192359), and writing the initial software that powers it: **[Your Commonbase](https://bramses.notion.site/Your-Commonbase-BETA-10b034182ddd8038b9ffe11cc2833713)** (A Self Organizing Screpbook with Zero Stress Storing, Searching, and Sharing). 
+Bram publishes a newsletter, is a [community developer ambassador for OpenAI](https://platform.openai.com/ambassadors), does consulting ([for hire!](https://www.bramadams.dev/consulting/)) related to AI/web dev/AR+VR, and is building **[Your Commonbase](https://bramses.notion.site/Your-Commonbase-BETA-10b034182ddd8038b9ffe11cc2833713) (A Self Organizing Screpbook with Zero Stress Storing, Searching, and Sharing).**
 
 **_other projects and experiences include_**
 
