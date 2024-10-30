@@ -1,4 +1,4 @@
-Bram publishes a newsletter, is a [community developer ambassador for OpenAI](https://platform.openai.com/ambassadors), does consulting ([for hire!](https://www.bramadams.dev/consulting/)) related to AI/web dev/AR+VR, and is building **[Your Commonbase](https://bramses.notion.site/Your-Commonbase-BETA-10b034182ddd8038b9ffe11cc2833713) (A Self Organizing Screpbook with Zero Stress Storing, Searching, and Sharing).**
+Bram publishes a newsletter, is a [community developer ambassador for OpenAI](https://platform.openai.com/ambassadors), does consulting ([for hire!](https://www.bramadams.dev/consulting/)) related to AI/web dev/AR+VR, and is building **[Your Commonbase](https://bramses.notion.site/Your-Commonbase-BETA-10b034182ddd8038b9ffe11cc2833713) (A Self Organizing Scrapbook with Zero Stress Storing, Searching, and Sharing).**
 
 **_other projects and experiences include_**
 
