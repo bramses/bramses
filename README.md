@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Hello (Workout Talks)](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;hello-workout-talks-2&#x2F;) - day 0
 * [dump 11&#x2F;25&#x2F;24](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;dump-11-25-24&#x2F;) - -
 * [Some Thoughts on Remarkability](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;some-thoughts-on-remarkability&#x2F;) - you can be remarkable at different things to different numbers of people
 * [Issue 60: Just Wait a Week](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-60-just-wait-a-week&#x2F;) - When the world goes faster, we must go slower in response
 * [Issue 59: Are Inboxes Evil?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-59-are-inboxes-evil&#x2F;) - What are the rules of the Inbox?
-* [Issue 58: The Words in Your Journals in the Ears of Others](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-words-in-your-journals-in-the-ears-of-others-2&#x2F;) - The sounds of the words you speak may lie on your own lips, but if you do not relinquish them entirely to a listener they never become words, and you say nothing at all. The words die with the sound.
 <!--END_SECTION:feed-->
