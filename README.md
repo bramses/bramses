@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [dump 11&#x2F;28&#x2F;24](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;dump-11-28-24&#x2F;) - -
+* [Are Genes Mutable](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;are-genes-mutable&#x2F;) - day 0.5
 * [Hello (Workout Talks)](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;hello-workout-talks-2&#x2F;) - day 0
 * [dump 11&#x2F;25&#x2F;24](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;dump-11-25-24&#x2F;) - -
 * [Some Thoughts on Remarkability](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;some-thoughts-on-remarkability&#x2F;) - you can be remarkable at different things to different numbers of people
-* [Issue 60: Just Wait a Week](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-60-just-wait-a-week&#x2F;) - When the world goes faster, we must go slower in response
-* [Issue 59: Are Inboxes Evil?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-59-are-inboxes-evil&#x2F;) - What are the rules of the Inbox?
 <!--END_SECTION:feed-->
