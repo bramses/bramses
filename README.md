@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Work to Disappear](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;work-to-disappear&#x2F;) - day 1
 * [dump 11&#x2F;28&#x2F;24](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;dump-11-28-24&#x2F;) - -
 * [Are Genes Mutable](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;are-genes-mutable&#x2F;) - day 0.5
 * [Hello (Workout Talks)](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;hello-workout-talks-2&#x2F;) - day 0
 * [dump 11&#x2F;25&#x2F;24](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;dump-11-25-24&#x2F;) - -
-* [Some Thoughts on Remarkability](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;some-thoughts-on-remarkability&#x2F;) - you can be remarkable at different things to different numbers of people
 <!--END_SECTION:feed-->
