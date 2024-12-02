@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Every single person is a unique configuration of the human experience](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;every-single-person-is-a-unique-configuration-of-the-human-experience&#x2F;) - day 2
 * [dump 12&#x2F;1&#x2F;24](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;dump-12-1-24&#x2F;) - -
 * [Work to Disappear](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;work-to-disappear&#x2F;) - day 1
 * [dump 11&#x2F;28&#x2F;24](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;dump-11-28-24&#x2F;) - -
 * [Are Genes Mutable](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;are-genes-mutable&#x2F;) - day 0.5
-* [Hello (Workout Talks)](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;hello-workout-talks-2&#x2F;) - day 0
 <!--END_SECTION:feed-->
