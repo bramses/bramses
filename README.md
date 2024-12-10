@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [dump 12&#x2F;9&#x2F;2024](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;dump-12-9-2024&#x2F;) - -
 * [Software in Production](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;software-in-production&#x2F;) - on shipping production level apps solo (and on teams)
 * [The Asking, Apocalypse Never](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-asking-apocalypse-never&#x2F;) - Aesthetics and Van Gogh
 * [Comment Sections are Bad For You](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;comment-sections-are-bad-for-you&#x2F;) - How you are getting robbed of your agency
 * [A Solid Yap Session](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;a-solid-yap-session&#x2F;) - day 3
-* [Every single person is a unique configuration of the human experience](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;every-single-person-is-a-unique-configuration-of-the-human-experience&#x2F;) - day 2
 <!--END_SECTION:feed-->
