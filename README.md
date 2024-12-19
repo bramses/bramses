@@ -16,9 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Building Agency and Trust](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;building-agency-and-trust&#x2F;) - in my self
 * [Baseless Predictions Video](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;baseless-predictions-video&#x2F;) - if you can make them i can make em too!
 * [dump 12&#x2F;9&#x2F;2024](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;dump-12-9-2024&#x2F;) - -
 * [Software in Production](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;software-in-production&#x2F;) - on shipping production level apps solo (and on teams)
 * [The Asking, Apocalypse Never](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-asking-apocalypse-never&#x2F;) - Aesthetics and Van Gogh
-* [Comment Sections are Bad For You](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;comment-sections-are-bad-for-you&#x2F;) - How you are getting robbed of your agency
 <!--END_SECTION:feed-->
