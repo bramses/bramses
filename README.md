@@ -16,11 +16,11 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [The Five Books Im Reading in January](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-five-books-im-reading-in-january&#x2F;) - a video about the five books im reading in january 2025
+* [Searching, Sharing, and a Launch Party](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;searching-sharing-and-a-launch-party&#x2F;) - a video about ycb updates
 * [Lessons from 2024 in Sentences and Pictures](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;lessons-in-2024-in-sentences-and-pictures&#x2F;) - Pictures all from my phone. In theory, I could do the same thing with screenshots from my laptop, since much of my life is online&#x2F;coding something on my computer. 
 
 But I don&#39;t want to, so I won&#39;t.
 * [A Unified Theory of Information in YCB](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;a-unified-theory-of-information-in-ycb&#x2F;) - what are all these functions for?!
 * [Building Agency and Trust](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;building-agency-and-trust&#x2F;) - in my self
-* [Baseless Predictions Video](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;baseless-predictions-video&#x2F;) - if you can make them i can make em too!
-* [dump 12&#x2F;9&#x2F;2024](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;dump-12-9-2024&#x2F;) - -
 <!--END_SECTION:feed-->
