@@ -16,11 +16,9 @@ The best way to support his work is to sign up for his newsletter [here](https:/
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Almonds Can&#39;t Do Math](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;almonds-cant-do-math&#x2F;) - don&#39;t let the headlines get you!
+* [Time Unhelpful](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;time-unhelpful&#x2F;) - perhaps its agency that prevents me from wanting to schedule meetings with myself
+* [Priority List for 2025](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;priority-list-for-2025&#x2F;) - a good priority list is short
 * [The Leverage of Programming Keeps Going Up](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;programmer-generations&#x2F;) - ratios of program(mer)s
 * [The Five Books Im Reading in January](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-five-books-im-reading-in-january&#x2F;) - a video about the five books im reading in january 2025
-* [Searching, Sharing, and a Launch Party](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;searching-sharing-and-a-launch-party&#x2F;) - a video about ycb updates
-* [Lessons from 2024 in Sentences and Pictures](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;lessons-in-2024-in-sentences-and-pictures&#x2F;) - Pictures all from my phone. In theory, I could do the same thing with screenshots from my laptop, since much of my life is online&#x2F;coding something on my computer. 
-
-But I don&#39;t want to, so I won&#39;t.
-* [A Unified Theory of Information in YCB](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;a-unified-theory-of-information-in-ycb&#x2F;) - what are all these functions for?!
 <!--END_SECTION:feed-->
