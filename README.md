@@ -1,6 +1,6 @@
 **Building [Your Commonbase](https://bramses.notion.site/Your-Commonbase-BETA-10b034182ddd8038b9ffe11cc2833713) (A Self Organizing Scrapbook with Zero Stress Storing, Searching, and Sharing).**
 
-## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
+## Latest Posts on [bramadams.dev](https://www.bramadams.dev/) (or my [microblog](https://bramses.micro.blog/))
 
 <!--START_SECTION:feed-->
 * [Almonds Can&#39;t Do Math](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;almonds-cant-do-math&#x2F;) - don&#39;t let the headlines get you!
