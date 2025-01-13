@@ -3,9 +3,9 @@
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/) (or my [microblog](https://bramses.micro.blog/))
 
 <!--START_SECTION:feed-->
+* [Fast Travel YCB Graphs](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;fast-travel-ycb-graphs&#x2F;) - 1,2,3 ... 2,2,3...
+* [A Lot of Journals](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;a-lot-of-journals&#x2F;) - How many leuchtturm1917&#39;s is too many?
 * [Almonds Can&#39;t Do Math](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;almonds-cant-do-math&#x2F;) - don&#39;t let the headlines get you!
 * [Time Unhelpful](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;time-unhelpful&#x2F;) - perhaps its agency that prevents me from wanting to schedule meetings with myself
 * [Priority List for 2025](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;priority-list-for-2025&#x2F;) - a good priority list is short
-* [The Leverage of Programming Keeps Going Up](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;programmer-generations&#x2F;) - ratios of program(mer)s
-* [The Five Books Im Reading in January](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-five-books-im-reading-in-january&#x2F;) - a video about the five books im reading in january 2025
 <!--END_SECTION:feed-->
