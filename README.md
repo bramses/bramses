@@ -3,9 +3,9 @@
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/) (or my [microblog](https://bramses.micro.blog/))
 
 <!--START_SECTION:feed-->
+* [A Collection of Quotes Over Half a Century on Death](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;a-collection-of-quotes-over-half-a-century-on-death&#x2F;) - words can&#39;t wrap their arms around death
 * [Off the Wagon](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;off-the-wagon&#x2F;) - -
 * [That&#39;s the kind of place it is](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;thats-the-kind-of-place-it-is&#x2F;) - -
 * [I&#39;m Glad I Went to the Gym Yesterday](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;im-glad-i-went-to-the-gym-yesterday&#x2F;) - -
 * [My Weight&#39;s Going Up??](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;my-weights-going-up&#x2F;) - -
-* [Get Minimap&#39;d Idiot](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;get-minimapd-idiot&#x2F;) - minimap (bottom left corner) is life
 <!--END_SECTION:feed-->
