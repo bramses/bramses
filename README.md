@@ -1,4 +1,4 @@
-**Building [Your Commonbase](https://bramses.notion.site/Your-Commonbase-BETA-10b034182ddd8038b9ffe11cc2833713) (A Self Organizing Scrapbook with Zero Stress Storing, Searching, and Sharing).**
+**Building [Your Commonbase](https://yourcommonbase.com/) (A Self Organizing Scrapbook with Zero Stress Storing, Searching, and Sharing).**
 
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/) (or my [microblog](https://bramses.micro.blog/))
 
