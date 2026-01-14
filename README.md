@@ -3,9 +3,9 @@
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/) (or my [microblog](https://bramses.micro.blog/))
 
 <!--START_SECTION:feed-->
+* [Book Tech](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;book-tech&#x2F;) - Book Tech Projects
+* [Book Progress 01.13.26](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;book-progress-01-13-26&#x2F;) - BOOK TECH BOOK TECH
 * [Book Progress 1.11.26](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;book-progress-1-11-26&#x2F;) - an angry young man who got ahead in life by having plot armor while the family and other generals around him very much didnt
 * [Book Progress 01.05.2026](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;book-progress-01-05-2026&#x2F;) - new year!
 * [Favorite Books and Lessons From 2025](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;favorite-books-and-lessons-from-2025&#x2F;) - See you in 2026!
-* [Book Progress 12.28.25](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;book-progress-12-28-25&#x2F;) - -
-* [Photoshop Layers for Text](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;photoshop-layers-for-text&#x2F;) - gh repo coming soon!!
 <!--END_SECTION:feed-->
