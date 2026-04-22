@@ -17,10 +17,17 @@ I'm a New York City based developer. I'm learning Japanese (A0), and I'm on the 
 
 ### Education
 University of Rochester - B.S. in Computer Science
+
 ### Selected Clients
 HBO, Algolia, OpenAI, Smarter Sorting, O'Reilly, Mr.Beast, US Holocaust Museum, Mastercard,
+
+[Services Offered](https://www.bramadams.dev/services-offered/)
+
 ### Projects
 Your Commonbase, Stenography.dev, ChatGPT-MD, BHOV-2023, bramadams.dev Working Thoughts, bramadams.dev Working Software, BookTalks,
+
+## Contact
+bram@bramadams.dev
 
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
