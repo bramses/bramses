@@ -20,7 +20,7 @@ University of Rochester - B.S. in Computer Science
 ### Selected Clients
 HBO, Algolia, OpenAI, Smarter Sorting, O'Reilly, Mr.Beast, US Holocaust Museum, Mastercard,
 ### Projects
-Your Commonbase, Stenography, ChatGPT-MD, BHOV-2023, Working Thoughts, Working Software,
+Your Commonbase, Stenography, ChatGPT-MD, BHOV-2023, Working Thoughts, Working Software, BookTalk,
 
 
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
