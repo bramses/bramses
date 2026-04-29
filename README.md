@@ -32,9 +32,9 @@ bram@bramadams.dev
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Extractor](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;extractor&#x2F;) - a third-party tool that allows language-model-assisted coding using Claude code or Codex to contextually save smart blocks from projects
 * [The Cannons of High Culture](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-cannons-of-high-culture&#x2F;) - shoot it shoot it shoot it
 * [I Dont Like Books With Molly In Them](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;i-dont-like-books-with-molly-in-them&#x2F;) - dont judge a book by its molly
 * [a propaganda organ](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;a-propaganda-organ&#x2F;) - of the Republican Party
 * [Mrs Maybrick that poisoned her husband](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;mrs-maybrick-that-poisoned-her-husband&#x2F;) - what do they ask us to marry them for if were so bad
-* [Haters on Both Sides](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;haters-on-both-sides&#x2F;) - there are no friends in objectivity
 <!--END_SECTION:feed-->
