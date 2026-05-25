@@ -1,7 +1,7 @@
 ## Statement
 
 My aims with my work are:
-1. Teach people how to read books better
+1. Teach people how to read books better ([schedule a 1:1 with me to improve your own reading systems here](https://docs.google.com/forms/d/e/1FAIpQLSf-xKz2W1DQz4gqjYSe8fGuW-jb40p7rHRPC7LcZdbU5uFm7g/viewform))
 2. Teach people about personal library science
 3. Make opinionated software
 
