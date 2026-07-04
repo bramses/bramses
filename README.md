@@ -11,7 +11,9 @@ My aims with my work are:
 ## Bio
 I'm a New York City based developer. I'm learning Japanese (A0), and I'm on the road to become well-dressed.
 
-**2026 Books**: _In Praise of Shadows_ by Junichiro Tanizaki, _The Great Bridge_ by David McCullough, _The Prince of Tides_ by Pat Conroy, _Arifueta Vol II_ by Ryo Shirakome, _Story of the Eye_ by Georges Bataille, _Giants_ by John Stauffer, _The Pencil_ by Henry Petroski, _How to Get Filthy Rich in Rising Asia_ by Moshin Hamid, _Persuasive Games_ by Ian Bogost, _Die With Zero_ by Bill Perkins, _Montaigne_ by Stefan Zweig, _Italian Villas and Their Gardens_ by Edith Wharton, _Virtue Hoarders_ by Catherine Liu, _The 50 Most Important Things in History_ by Sean Munger, _Crime and Punishment_ by Fyodor Dostoyevsky, _Paper Belt on Fire_ by Michael Gibson, _Before Orthodoxy_ by Shahab Ahmed, _Fluent Forever_ by Gabriel Wyner, _The Polymath_ by Peter Burke, _Washington_ by Ron Chernow, _Ulysses_ by James Joyce, _Lapvona_ by Ottessa Moshfegh, _Everything is Tuberculosis_ by John Green, _On Press_ by Matthew Pressman, _String Theory_ by David Foster Wallace, _Ametora_ by W. David Marx, _You Are What You Wear_ by Jennifer Baumgartner, _Deng Xiopeng_ by Ezra Vogel, _Shape_ by Jordan Ellenberg, _Malcolm X_ by Manning Marble,
+### 2026 Books (bolded are favorites)
+
+**In Praise of Shadows** by Junichiro Tanizaki, *The Great Bridge* by David McCullough, *The Prince of Tides* by Pat Conroy, *Arifureta Vol II* by Ryo Shirakome, *Story of the Eye* by Georges Bataille, **Giants** by John Stauffer, *The Pencil* by Henry Petroski, *How to Get Filthy Rich in Rising Asia* by Mohsin Hamid, *Persuasive Games* by Ian Bogost, **Die With Zero** by Bill Perkins, **Montaigne** by Stefan Zweig, *Italian Villas and Their Gardens* by Edith Wharton, *Virtue Hoarders* by Catherine Liu, *The 50 Most Important Things in History* by Sean Munger, *Crime and Punishment* by Fyodor Dostoyevsky, *Paper Belt on Fire* by Michael Gibson, *Before Orthodoxy* by Shahab Ahmed, **Fluent Forever** by Gabriel Wyner, *The Polymath* by Peter Burke, *Washington* by Ron Chernow, *Ulysses* by James Joyce, *Lapvona* by Ottessa Moshfegh, **Everything is Tuberculosis** by John Green, *On Press* by Matthew Pressman, *String Theory* by David Foster Wallace, *Ametora: How Japan Saved American Fashion* by W. David Marx, *You Are What You Wear* by Jennifer Baumgartner, *Deng Xiaoping and the Transformation of China* by Ezra Vogel, *Shape* by Jordan Ellenberg, *Malcolm X: A Life of Reinvention* by Manning Marable, *Shipping Man* by Matthew McCleery, *Empire of Illusion* by Chris Hedges, **Existential Counseling and Psychotherapy** by Emmy Van Deurzen, *Why We Drink Too Much* by Charles Knowles, **A Room of One's Own** by Virginia Woolf, *Morning Glory Milking Farm* by C.M. Nacosta, *Creative Doing: 75 Practical Exercises* by Herbert Lui, *Carl's Doomsday Scenario* by Matt Dinniman, *Boredom* by Alberto Moravia, *White Noise* by Don DeLillo,
 
 ## CV
 
@@ -28,6 +30,9 @@ Your Commonbase, Stenography.dev, ChatGPT-MD, BHOV-2023, bramadams.dev Working T
 
 ## Contact
 bram@bramadams.dev
+
+## Links
+[Instagram](https://www.instagram.com/_bramses), [LinkedIn](https://www.linkedin.com/in/brammadams/), [Goodreads](https://www.goodreads.com/user/show/84343841-bram-adams), [Letterboxd](https://letterboxd.com/bramses/),
 
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
