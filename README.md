@@ -37,9 +37,9 @@ bram@bramadams.dev
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [The How and Why of Entity Shorthand](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-how-and-why-of-entity-shorthand&#x2F;) - For those with a commonplace
+* [On Reading Systems](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;on-reading-systems&#x2F;) - A fun conversation about where my thinking on Reading Systems is now
 * [Should I Call First?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;should-i-call-first&#x2F;) - Waiting feels like gathering information, but often it&#39;s just another way of avoiding the risk of being known.
 * [Issue 68: Reading is a System](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;issue-68-reading-is-a-system&#x2F;) - Happy July 4th edition!
 * [X is a Cesspit](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;x-is-a-cesspit&#x2F;) - twitter is dead
-* [Extractor](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;extractor&#x2F;) - a third-party tool that allows language-model-assisted coding using Claude code or Codex to contextually save smart blocks from projects
-* [The Cannons of High Culture](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-cannons-of-high-culture&#x2F;) - shoot it shoot it shoot it
 <!--END_SECTION:feed-->
