@@ -37,9 +37,9 @@ bram@bramadams.dev
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Parallel Reading and Experimentation](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;parallel-reading-and-experimentation&#x2F;) - -
 * [Free Work and Idiosyncrasy](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;free-work-and-idiosyncrasy&#x2F;) - YouTube should be viewed as a marketing vessel rather than the primary foundation for a business
 * [I’m Trepidatiously Optimistic About Reading Discourse](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;im-trepidatiously-optimistic-about-reading-discourse&#x2F;) - In this video, the creator shares their thoughts on the current trends surrounding reading culture and argues for a more personal, idiosyncratic approach to building a reading life.
 * [The How and Why of Entity Shorthand](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-how-and-why-of-entity-shorthand&#x2F;) - For those with a commonplace
 * [On Reading Systems](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;on-reading-systems&#x2F;) - A fun conversation about where my thinking on Reading Systems is now
-* [Should I Call First?](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;should-i-call-first&#x2F;) - Waiting feels like gathering information, but often it&#39;s just another way of avoiding the risk of being known.
 <!--END_SECTION:feed-->
