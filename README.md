@@ -1,7 +1,7 @@
 ## Statement
 
 My aims with my work are:
-1. [Teach people how to read books better](https://reading-is-a-system.vercel.app/) 
+1. [Teach New Yorkers how to read books better](https://www.commonplace.nyc/) 
 2. Teach people about personal library science
 3. Make opinionated software
 
