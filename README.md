@@ -37,9 +37,9 @@ bram@bramadams.dev
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
-* [I&#39;m Hosting a Few Events This Month!](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;im-hosting-a-few-events-this-month&#x2F;) - Come learn about books and computers!
-* [Parallel Reading and Experimentation](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;parallel-reading-and-experimentation&#x2F;) - -
-* [Free Work and Idiosyncrasy](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;free-work-and-idiosyncrasy&#x2F;) - YouTube should be viewed as a marketing vessel rather than the primary foundation for a business
-* [I’m Trepidatiously Optimistic About Reading Discourse](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;im-trepidatiously-optimistic-about-reading-discourse&#x2F;) - In this video, the creator shares their thoughts on the current trends surrounding reading culture and argues for a more personal, idiosyncratic approach to building a reading life.
-* [The How and Why of Entity Shorthand](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;the-how-and-why-of-entity-shorthand&#x2F;) - For those with a commonplace
+* [Why Does the World Exist?: An Existential Detective Story](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;why-does-the-world-exist&#x2F;) - Jim Holt
+* [How to Talk About Books You Haven&#39;t Read](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;books-you-havent-read&#x2F;) - Pierre Bayard
+* [White Noise](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;white-noise&#x2F;) - Don DeLillo
+* [Lee Kuan Yew: The Grand Master&#39;s Insights on China, the United States, and the World](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;lee-kuan-yew-the-grand-master&#x2F;) - Graham Allison
+* [Boredom](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;boredom&#x2F;) - Alberto Moravia
 <!--END_SECTION:feed-->
