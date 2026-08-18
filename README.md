@@ -37,9 +37,9 @@ bram@bramadams.dev
 ## Latest Posts on [bramadams.dev](https://www.bramadams.dev/)
 
 <!--START_SECTION:feed-->
+* [Look at That!: Discover the Joy of Seeing by Sketching](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;look-at-that&#x2F;) - Bobbie Heron
 * [Why Does the World Exist?: An Existential Detective Story](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;why-does-the-world-exist&#x2F;) - Jim Holt
 * [How to Talk About Books You Haven&#39;t Read](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;books-you-havent-read&#x2F;) - Pierre Bayard
 * [White Noise](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;white-noise&#x2F;) - Don DeLillo
 * [Lee Kuan Yew: The Grand Master&#39;s Insights on China, the United States, and the World](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;lee-kuan-yew-the-grand-master&#x2F;) - Graham Allison
-* [Boredom](https:&#x2F;&#x2F;www.bramadams.dev&#x2F;boredom&#x2F;) - Alberto Moravia
 <!--END_SECTION:feed-->
